@@ -1,0 +1,2506 @@
+2024-02-23T14:23:37.143Z - User ae2i.algerie@ae2i-aerh.com logged in successfully.
+2024-02-23T14:27:59.702Z - User ae2i.algerie@ae2i-aerh.com logged in successfully.
+2024-02-23T14:46:46.700Z - Fetched dashboard for client 1
+2024-02-23T14:48:12.825Z - Fetched monthly stats for client 1 in 2024
+2024-02-29T20:28:12.960Z - Fetched all admin notifications
+2024-03-01T13:49:19.990Z - Failed login attempt for user .
+2024-03-01T13:49:20.446Z - Failed login attempt for user .
+2024-03-01T13:49:21.233Z - Failed login attempt for user .
+2024-03-01T13:49:27.363Z - Failed login attempt for user aissanyris84@gmail.com.
+2024-03-01T13:49:28.023Z - Failed login attempt for user aissanyris84@gmail.com.
+2024-03-01T13:49:28.574Z - Failed login attempt for user aissanyris84@gmail.com.
+2024-03-01T13:49:29.012Z - Failed login attempt for user aissanyris84@gmail.com.
+2024-03-01T13:57:36.899Z - Failed login attempt for user .
+2024-03-01T13:57:50.950Z - Failed login attempt for user .
+2024-03-01T13:58:37.069Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-01T13:58:37.715Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-01T13:58:38.165Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-01T13:59:16.824Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T14:24:20.297Z - Failed login attempt for user .
+2024-03-01T14:24:34.764Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-03-01T14:24:38.604Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T14:24:58.888Z - Failed login attempt for user .
+2024-03-01T14:24:59.821Z - Failed login attempt for user .
+2024-03-01T14:38:07.256Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-01T14:38:10.967Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-01T14:38:21.786Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T14:38:55.943Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-03-01T14:39:30.756Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T17:18:43.390Z - Failed login attempt for user h.
+2024-03-01T17:18:53.143Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T17:44:14.724Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T17:44:31.039Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T23:03:31.428Z - User ae2i.algerie@ae2i-aerh.com logged in successfully.
+2024-03-01T23:04:02.663Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-01T23:55:10.501Z - Failed to fetch signalement with ID undefined: Signalement not found
+2024-03-01T23:56:21.987Z - Failed to fetch signalement with ID undefined: Signalement not found
+2024-03-01T23:56:25.386Z - Failed to fetch signalement with ID undefined: Signalement not found
+2024-03-02T00:05:43.182Z - Failed to fetch signalements: clients is associated to signalements using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2024-03-02T00:50:09.383Z - Failed login attempt for user J.
+2024-03-02T18:14:07.358Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T20:31:25.705Z - Failed to fetch client with ID undefined: Client not found
+2024-03-02T21:10:44.460Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:10:47.096Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:10:52.008Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:11:17.072Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:11:18.043Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:11:18.760Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:11:19.043Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:11:27.504Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:32:08.445Z - Failed to fetch client with ID undefined: Client not found
+2024-03-02T21:34:07.956Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T21:36:14.426Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T21:38:52.495Z - Failed to update moderateur with ID 1: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T21:49:06.264Z - Fetched all admin notifications
+2024-03-02T21:49:29.943Z - Fetched all admin notifications
+2024-03-02T22:01:36.080Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T22:02:13.663Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T22:02:14.901Z - Failed to create moderateur: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`moderateurs`, CONSTRAINT `moderateurs_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-03-02T22:15:42.942Z - Admin with ID 1 updated successfully.
+2024-03-02T22:39:09.172Z - Admin with ID 1 updated successfully.
+2024-03-02T22:39:10.198Z - Admin with ID 1 updated successfully.
+2024-03-02T22:39:21.566Z - Admin with ID 1 updated successfully.
+2024-03-02T22:43:47.668Z - Admin with ID 1 updated successfully.
+2024-03-02T22:47:52.556Z - Admin with ID 1 updated successfully.
+2024-03-02T22:47:58.850Z - Admin with ID 1 updated successfully.
+2024-03-02T22:48:13.637Z - Admin with ID 1 updated successfully.
+2024-03-02T22:48:32.668Z - Admin with ID 1 updated successfully.
+2024-03-02T22:48:57.872Z - Admin with ID 1 updated successfully.
+2024-03-02T22:49:14.104Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-03-02T22:49:17.905Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T22:49:28.225Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T22:49:50.149Z - Admin with ID 1 updated successfully.
+2024-03-02T22:49:56.665Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-03-02T22:50:00.217Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-02T22:50:20.229Z - Fetched all admin notifications
+2024-03-03T09:19:45.249Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-03-03T09:19:48.495Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T12:06:35.155Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T12:07:53.983Z - Failed to fetch transactions for client: plans is not defined
+2024-03-03T13:33:34.543Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T13:51:17.159Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T14:19:24.781Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T15:23:14.222Z - Failed to fetch plan with ID undefined: Plan not found with the specified ID.
+2024-03-03T15:24:51.667Z - Failed to fetch plan with ID undefined: Plan not found with the specified ID.
+2024-03-03T15:24:55.320Z - Failed to fetch plan with ID undefined: Plan not found with the specified ID.
+2024-03-03T15:25:11.959Z - Failed to fetch plan with ID undefined: Plan not found with the specified ID.
+2024-03-03T15:58:20.839Z - Fetched admin dashboard
+2024-03-03T16:01:36.301Z - Fetched admin dashboard
+2024-03-03T16:01:54.032Z - Fetched admin dashboard
+2024-03-03T16:02:13.284Z - Fetched all admin notifications
+2024-03-03T16:02:13.921Z - Fetched all admin notifications
+2024-03-03T16:02:25.704Z - Fetched admin dashboard
+2024-03-03T16:03:50.164Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:32:29.034Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:32:29.039Z - Fetched admin dashboard
+2024-03-03T16:32:33.798Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:32:33.801Z - Fetched admin dashboard
+2024-03-03T16:37:12.304Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:37:12.309Z - Fetched admin dashboard
+2024-03-03T16:39:43.756Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:39:43.760Z - Fetched admin dashboard
+2024-03-03T16:39:47.954Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:39:47.959Z - Fetched admin dashboard
+2024-03-03T16:40:00.298Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:40:04.695Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:40:57.563Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:40:57.566Z - Fetched admin dashboard
+2024-03-03T16:41:50.037Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:41:50.040Z - Fetched admin dashboard
+2024-03-03T16:42:08.663Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:42:12.991Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:42:17.661Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:42:21.320Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:43:13.377Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:43:13.381Z - Fetched admin dashboard
+2024-03-03T16:43:22.380Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:43:22.384Z - Fetched admin dashboard
+2024-03-03T16:43:46.881Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:43:46.885Z - Fetched admin dashboard
+2024-03-03T16:44:07.967Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:44:09.339Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:44:11.185Z - Fetched monthly stats for admin in 2022
+2024-03-03T16:44:12.427Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:46:11.668Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:46:14.166Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:46:44.114Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:46:45.723Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:47:58.027Z - Fetched monthly stats for admin in 2022
+2024-03-03T16:47:59.691Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:50:14.185Z - Fetched monthly stats for admin in 2017
+2024-03-03T16:50:15.830Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:50:40.671Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:50:40.687Z - Fetched admin dashboard
+2024-03-03T16:50:42.733Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:50:46.530Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:51:25.622Z - Fetched all admin notifications
+2024-03-03T16:51:30.458Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:51:30.468Z - Fetched admin dashboard
+2024-03-03T16:51:33.585Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:51:35.022Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:51:57.312Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:52:22.178Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:52:29.709Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:52:29.719Z - Fetched admin dashboard
+2024-03-03T16:52:31.901Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:52:34.989Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:52:44.354Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:52:59.572Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:53:00.654Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:53:13.832Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:53:13.840Z - Fetched admin dashboard
+2024-03-03T16:53:15.946Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:53:18.405Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:56:36.930Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:56:38.826Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:56:38.832Z - Fetched admin dashboard
+2024-03-03T16:56:40.480Z - Fetched monthly stats for admin in 2021
+2024-03-03T16:56:41.848Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:56:42.874Z - Fetched monthly stats for admin in 2021
+2024-03-03T16:56:44.472Z - Fetched monthly stats for admin in 2019
+2024-03-03T16:57:43.367Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:57:43.372Z - Fetched admin dashboard
+2024-03-03T16:57:44.674Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:57:44.680Z - Fetched admin dashboard
+2024-03-03T16:57:46.319Z - Fetched monthly stats for admin in 2020
+2024-03-03T16:57:47.573Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:57:48.698Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:58:01.812Z - Fetched monthly stats for admin in 2020
+2024-03-03T16:58:52.742Z - Fetched monthly stats for admin in 2024
+2024-03-03T16:58:52.750Z - Fetched admin dashboard
+2024-03-03T16:58:54.459Z - Fetched monthly stats for admin in 2023
+2024-03-03T16:58:55.690Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:00:13.215Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:00:13.221Z - Fetched admin dashboard
+2024-03-03T17:01:02.644Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:01:02.650Z - Fetched admin dashboard
+2024-03-03T17:01:50.824Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:01:50.835Z - Fetched admin dashboard
+2024-03-03T17:03:39.560Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:03:39.567Z - Fetched admin dashboard
+2024-03-03T17:03:47.083Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:04:07.887Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:04:07.892Z - Fetched admin dashboard
+2024-03-03T17:04:12.351Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:06:37.578Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:06:37.584Z - Fetched admin dashboard
+2024-03-03T17:06:41.759Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:07:35.611Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:07:35.617Z - Fetched admin dashboard
+2024-03-03T17:07:36.998Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:07:37.003Z - Fetched admin dashboard
+2024-03-03T17:07:40.529Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:08:54.661Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:08:57.754Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:09:15.371Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:09:18.523Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:09:40.550Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:09:40.556Z - Fetched admin dashboard
+2024-03-03T17:09:45.238Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:10:29.132Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:10:31.403Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:10:49.994Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:10:50.002Z - Fetched admin dashboard
+2024-03-03T17:10:53.100Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:11:20.999Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:11:22.627Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:12:16.431Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:12:16.440Z - Fetched admin dashboard
+2024-03-03T17:12:20.302Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:13:43.346Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:13:43.351Z - Fetched admin dashboard
+2024-03-03T17:13:46.644Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:14:28.549Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:14:28.554Z - Fetched admin dashboard
+2024-03-03T17:14:31.089Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:15:24.580Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:15:30.081Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:19:46.230Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:19:46.238Z - Fetched admin dashboard
+2024-03-03T17:19:50.930Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:19:50.939Z - Fetched admin dashboard
+2024-03-03T17:19:54.848Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:20:07.968Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:20:11.330Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:20:19.057Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:20:32.014Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:21:31.433Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:21:31.439Z - Fetched admin dashboard
+2024-03-03T17:21:50.673Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:21:50.681Z - Fetched admin dashboard
+2024-03-03T17:21:52.101Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:21:52.107Z - Fetched admin dashboard
+2024-03-03T17:21:54.313Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:21:57.028Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:22:56.545Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:22:56.553Z - Fetched admin dashboard
+2024-03-03T17:22:59.355Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:00.754Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:09.069Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:09.540Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:21.236Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:23.413Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:23.942Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:39.258Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:23:40.739Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:23:41.378Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:23:41.986Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:23:45.723Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:23:45.733Z - Fetched admin dashboard
+2024-03-03T17:23:48.907Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:49.451Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:23:50.470Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:24:36.158Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:24:36.180Z - Fetched admin dashboard
+2024-03-03T17:24:38.422Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:24:39.210Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:24:39.557Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:25:25.029Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:25:25.037Z - Fetched admin dashboard
+2024-03-03T17:25:25.951Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:25:25.960Z - Fetched admin dashboard
+2024-03-03T17:26:48.469Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:26:48.485Z - Fetched admin dashboard
+2024-03-03T17:29:38.803Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:29:41.840Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:29:43.201Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:30:39.716Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:30:41.240Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:14.529Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:31:14.535Z - Fetched admin dashboard
+2024-03-03T17:31:19.563Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:20.209Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:20.448Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:20.614Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:20.790Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:22.276Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:22.579Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:22.919Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:23.086Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:36.352Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:36.846Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:37.565Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:31:38.198Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:32:26.830Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:32:27.909Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:35:10.512Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:35:11.144Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:36:01.947Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:36:09.831Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:10.867Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:36:11.652Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:36:11.908Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:36:12.500Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:12.655Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:12.815Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:12.973Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:13.139Z - Generated admin report for 2023 in CSV format
+2024-03-03T17:36:35.987Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:36:36.002Z - Fetched admin dashboard
+2024-03-03T17:36:38.655Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:36:39.120Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:36:39.352Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:37:28.624Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:37:35.384Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:37:39.555Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:37:49.802Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:37:57.323Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:37:58.227Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:37:58.923Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:37:59.145Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:37:59.702Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:00.524Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:00.834Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:01.380Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:01.937Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:14.614Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:38:14.622Z - Fetched admin dashboard
+2024-03-03T17:38:16.639Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:17.382Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:17.801Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:18.015Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:18.211Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:18.656Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:28.228Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:28.712Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:28.951Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:30.782Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:31.235Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:31.464Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:31.671Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:38:32.702Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:38:33.139Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:38:33.610Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:38:33.853Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:39:11.012Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:39:11.031Z - Fetched admin dashboard
+2024-03-03T17:39:44.797Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:39:44.803Z - Fetched admin dashboard
+2024-03-03T17:39:49.449Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:40:07.740Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:40:08.151Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:40:08.403Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:40:08.993Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:40:09.542Z - Generated admin report for 2023 in PDF format
+2024-03-03T17:41:06.464Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:41:06.470Z - Fetched admin dashboard
+2024-03-03T17:41:08.292Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:41:08.297Z - Fetched admin dashboard
+2024-03-03T17:41:10.123Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:10.735Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:11.313Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:11.934Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:12.130Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:22.057Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:41:22.066Z - Fetched admin dashboard
+2024-03-03T17:41:55.161Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:41:55.167Z - Fetched admin dashboard
+2024-03-03T17:41:56.713Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:57.708Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:58.351Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:58.978Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:59.135Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:41:59.563Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:42:40.111Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:42:40.119Z - Fetched admin dashboard
+2024-03-03T17:42:42.073Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:42:42.497Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:42:42.693Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:44:34.869Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:44:34.875Z - Fetched admin dashboard
+2024-03-03T17:44:36.123Z - Fetched monthly stats for admin in 2024
+2024-03-03T17:44:36.129Z - Fetched admin dashboard
+2024-03-03T17:44:40.091Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:44:47.922Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:45:13.342Z - Generated admin report for 2024 in CSV format
+2024-03-03T17:45:25.366Z - Generated admin report for 2024 in PDF format
+2024-03-03T17:45:44.665Z - Fetched monthly stats for admin in 2023
+2024-03-03T17:45:46.763Z - Generated admin report for 2023 in CSV format
+2024-03-03T18:05:30.327Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:05:30.330Z - Fetched admin dashboard
+2024-03-03T18:05:34.776Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:05:36.130Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:05:36.611Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:10:00.070Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:10:00.074Z - Fetched admin dashboard
+2024-03-03T18:10:02.317Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:10:39.886Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:10:39.890Z - Fetched admin dashboard
+2024-03-03T18:10:41.390Z - Generated admin report for 2024 in CSV format
+2024-03-03T18:12:09.085Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:12:09.088Z - Fetched admin dashboard
+2024-03-03T18:12:11.757Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:12:11.760Z - Fetched admin dashboard
+2024-03-03T18:12:13.182Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:12:13.185Z - Fetched admin dashboard
+2024-03-03T18:12:14.620Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:12:43.292Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:12:43.295Z - Fetched admin dashboard
+2024-03-03T18:13:29.008Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:13:29.011Z - Fetched admin dashboard
+2024-03-03T18:13:31.230Z - Generated admin report for 2024 in CSV format
+2024-03-03T18:13:43.272Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:13:43.276Z - Fetched admin dashboard
+2024-03-03T18:16:57.400Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:17:01.691Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:18:29.840Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:18:29.845Z - Fetched admin dashboard
+2024-03-03T18:18:37.936Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:18:37.940Z - Fetched admin dashboard
+2024-03-03T18:18:39.589Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:25:15.380Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:25:15.383Z - Fetched admin dashboard
+2024-03-03T18:25:16.291Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:25:16.295Z - Fetched admin dashboard
+2024-03-03T18:25:17.811Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:25:23.702Z - Generated admin report for 2024 in CSV format
+2024-03-03T18:26:58.956Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:27:52.586Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:27:52.590Z - Fetched admin dashboard
+2024-03-03T18:27:54.426Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:29:56.226Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-03T18:29:56.603Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:29:56.607Z - Fetched admin dashboard
+2024-03-03T18:30:23.189Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:30:23.194Z - Fetched admin dashboard
+2024-03-03T18:30:24.819Z - Generated admin report for 2024 in CSV format
+2024-03-03T18:30:27.422Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:30:47.616Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:30:47.618Z - Fetched admin dashboard
+2024-03-03T18:30:54.456Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:30:54.460Z - Fetched admin dashboard
+2024-03-03T18:30:56.813Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:31:06.840Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:31:06.844Z - Fetched admin dashboard
+2024-03-03T18:31:08.027Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:31:08.029Z - Fetched admin dashboard
+2024-03-03T18:31:09.524Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:31:25.907Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:32:00.182Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:32:00.185Z - Fetched admin dashboard
+2024-03-03T18:33:47.692Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:54.626Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:56.561Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:57.364Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:58.064Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:58.753Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:33:59.470Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:00.184Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:00.921Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:01.635Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:02.667Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:10.406Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:27.082Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:34:27.091Z - Fetched admin dashboard
+2024-03-03T18:34:30.016Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:34:31.556Z - Generated admin report for 2024 in PDF format
+2024-03-03T18:36:56.589Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:36:58.192Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:37:15.274Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:37:15.283Z - Fetched admin dashboard
+2024-03-03T18:37:19.133Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:37:20.751Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:40:17.605Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:40:17.610Z - Fetched admin dashboard
+2024-03-03T18:40:30.284Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:40:30.288Z - Fetched admin dashboard
+2024-03-03T18:40:49.160Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:40:49.164Z - Fetched admin dashboard
+2024-03-03T18:41:34.940Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:41:38.826Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:42:35.612Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:42:48.921Z - Generated admin report for 2023 in CSV format
+2024-03-03T18:43:20.660Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:43:20.671Z - Fetched admin dashboard
+2024-03-03T18:43:33.883Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:43:33.891Z - Fetched admin dashboard
+2024-03-03T18:43:35.803Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:43:35.807Z - Fetched admin dashboard
+2024-03-03T18:43:40.463Z - Fetched monthly stats for admin in 2023
+2024-03-03T18:43:50.440Z - Generated admin report for 2023 in PDF format
+2024-03-03T18:43:52.184Z - Generated admin report for 2023 in CSV format
+2024-03-03T18:45:04.838Z - Fetched monthly stats for admin in 2024
+2024-03-03T18:45:04.845Z - Fetched admin dashboard
+2024-03-03T18:45:09.044Z - Fetched monthly stats for admin in 2023
+2024-03-03T19:52:05.451Z - Fetched monthly stats for admin in 2024
+2024-03-03T19:52:05.470Z - Fetched admin dashboard
+2024-03-03T19:56:09.727Z - Fetched monthly stats for admin in 2024
+2024-03-03T19:56:09.739Z - Fetched admin dashboard
+2024-03-03T20:05:45.396Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:05:45.404Z - Fetched admin dashboard
+2024-03-03T20:06:26.636Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:06:26.645Z - Fetched admin dashboard
+2024-03-03T20:20:13.411Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:20:13.425Z - Fetched admin dashboard
+2024-03-03T20:48:15.454Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:48:15.463Z - Fetched admin dashboard
+2024-03-03T20:50:29.799Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:50:29.806Z - Fetched admin dashboard
+2024-03-03T20:50:37.407Z - Fetched monthly stats for admin in 2023
+2024-03-03T20:50:50.858Z - Fetched monthly stats for admin in 2020
+2024-03-03T20:50:52.372Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:50:55.033Z - Fetched monthly stats for admin in 2023
+2024-03-03T20:51:22.401Z - Fetched monthly stats for admin in 2024
+2024-03-03T20:51:22.410Z - Fetched admin dashboard
+2024-03-03T20:53:22.097Z - Failed login attempt for user klk.
+2024-03-17T10:54:57.542Z - Failed login attempt for user info@algerietelecom.dz.
+2024-03-17T10:54:58.892Z - Failed login attempt for user info@algerietelecom.dz.
+2024-03-17T10:55:40.489Z - Failed login attempt for user mediafafcontact.dz@gmail.com.
+2024-03-17T10:55:41.404Z - Failed login attempt for user mediafafcontact.dz@gmail.com.
+2024-03-17T10:55:42.297Z - Failed login attempt for user mediafafcontact.dz@gmail.com.
+2024-03-17T10:56:05.620Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-17T10:56:06.357Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-17T10:56:16.921Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-17T10:56:18.751Z - Fetched monthly stats for admin in 2024
+2024-03-17T10:56:18.766Z - Fetched admin dashboard
+2024-03-17T10:56:24.596Z - Fetched monthly stats for admin in 2023
+2024-03-17T11:04:30.760Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-17T11:04:31.412Z - Fetched monthly stats for admin in 2024
+2024-03-17T11:04:31.422Z - Fetched admin dashboard
+2024-03-17T11:05:22.450Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-17T11:05:23.061Z - Fetched monthly stats for admin in 2024
+2024-03-17T11:05:23.077Z - Fetched admin dashboard
+2024-03-17T11:05:30.152Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-03-17T11:19:02.951Z - User js_zitouni@esi.dz logged in successfully.
+2024-03-17T11:19:03.278Z - Fetched monthly stats for admin in 2024
+2024-03-17T11:19:03.284Z - Fetched admin dashboard
+2024-03-17T11:19:25.672Z - Fetched monthly stats for admin in 2023
+2024-03-17T11:20:01.378Z - Fetched monthly stats for admin in 2021
+2024-03-17T11:20:04.015Z - Fetched monthly stats for admin in 2024
+2024-04-15T13:09:53.715Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-04-15T13:10:12.814Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-15T13:10:14.561Z - Fetched monthly stats for admin in 2024
+2024-04-15T13:10:14.579Z - Fetched admin dashboard
+2024-04-15T13:10:40.241Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-04-15T13:10:40.986Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-04-15T13:11:01.666Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-15T13:11:04.636Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-15T13:11:11.317Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-15T13:11:11.881Z - Fetched monthly stats for admin in 2024
+2024-04-15T13:11:11.892Z - Fetched admin dashboard
+2024-04-15T13:11:23.351Z - Fetched monthly stats for admin in 2023
+2024-04-15T13:12:13.609Z - Fetched monthly stats for admin in 2024
+2024-04-15T13:12:13.625Z - Fetched admin dashboard
+2024-04-15T14:31:40.830Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1
+2024-04-15T14:31:44.707Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1
+2024-04-15T14:33:44.034Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:33:44.048Z - Fetched admin dashboard
+2024-04-15T14:36:15.214Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:36:15.218Z - Fetched admin dashboard
+2024-04-15T14:36:21.262Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:36:21.269Z - Fetched admin dashboard
+2024-04-15T14:37:31.238Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:37:31.250Z - Fetched admin dashboard
+2024-04-15T14:38:09.840Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:38:09.851Z - Fetched admin dashboard
+2024-04-15T14:38:17.839Z - Fetched monthly stats for admin in 2023
+2024-04-15T14:38:45.248Z - Fetched monthly stats for admin in 2024
+2024-04-15T14:38:45.254Z - Fetched admin dashboard
+2024-04-15T15:05:31.055Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1
+2024-04-15T15:05:33.116Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-20, 10' at line 1
+2024-04-15T15:05:34.484Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-30, 10' at line 1
+2024-04-15T15:05:39.989Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-40, 10' at line 1
+2024-04-15T15:05:40.425Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-50, 10' at line 1
+2024-04-15T15:05:41.261Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-60, 10' at line 1
+2024-04-15T15:05:41.460Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-70, 10' at line 1
+2024-04-15T15:05:46.346Z - Failed to fetch clients: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1
+2024-04-15T16:38:25.573Z - Fetched monthly stats for admin in 2024
+2024-04-15T16:38:25.582Z - Fetched admin dashboard
+2024-04-15T16:42:17.024Z - Fetched monthly stats for admin in 2024
+2024-04-15T16:42:17.033Z - Fetched admin dashboard
+2024-04-15T17:09:41.000Z - Failed to fetch adresses: WHERE parameter "client_id" has invalid "undefined" value
+2024-04-15T17:09:47.244Z - Failed to fetch adresses: WHERE parameter "client_id" has invalid "undefined" value
+2024-04-15T17:10:10.856Z - Failed to fetch adresses: WHERE parameter "client_id" has invalid "undefined" value
+2024-04-15T17:10:18.722Z - Failed to fetch adresses: WHERE parameter "client_id" has invalid "undefined" value
+2024-04-15T17:11:58.634Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:11:58.655Z - Fetched admin dashboard
+2024-04-15T17:12:00.796Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:12:00.805Z - Fetched admin dashboard
+2024-04-15T17:14:23.808Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:14:23.816Z - Fetched admin dashboard
+2024-04-15T17:20:36.240Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:20:39.482Z - Failed to fetch transactions for client with id undefined: page is not defined
+2024-04-15T17:20:39.516Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:20:44.633Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:21:09.246Z - Failed to fetch transactions for client with id undefined: page is not defined
+2024-04-15T17:21:09.271Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:21:09.803Z - Failed to fetch transactions for client with id undefined: page is not defined
+2024-04-15T17:21:09.833Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:21:48.083Z - Failed to fetch transactions for client with id undefined: page is not defined
+2024-04-15T17:21:48.085Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:21:48.978Z - Failed to fetch transactions for client with id undefined: page is not defined
+2024-04-15T17:21:49.005Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:21:49.887Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:21:49.904Z - Fetched admin dashboard
+2024-04-15T17:21:52.695Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:22:26.791Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:22:26.798Z - Fetched admin dashboard
+2024-04-15T17:22:35.742Z - Failed to fetch transactions for client with id 1: page is not defined
+2024-04-15T17:23:56.843Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:23:56.854Z - Fetched admin dashboard
+2024-04-15T17:24:18.184Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:24:18.197Z - Fetched admin dashboard
+2024-04-15T17:29:26.282Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:29:26.301Z - Fetched admin dashboard
+2024-04-15T17:29:28.139Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:29:28.149Z - Fetched admin dashboard
+2024-04-15T17:29:32.759Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:29:32.768Z - Fetched admin dashboard
+2024-04-15T17:29:35.373Z - Fetched monthly stats for admin in 2023
+2024-04-15T17:30:16.598Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:30:16.610Z - Fetched admin dashboard
+2024-04-15T17:51:15.580Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:51:15.590Z - Fetched admin dashboard
+2024-04-15T17:51:28.501Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:51:28.508Z - Fetched admin dashboard
+2024-04-15T17:58:57.343Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:58:57.353Z - Fetched admin dashboard
+2024-04-15T17:59:33.696Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:59:33.705Z - Fetched admin dashboard
+2024-04-15T17:59:55.168Z - Fetched monthly stats for admin in 2024
+2024-04-15T17:59:55.175Z - Fetched admin dashboard
+2024-04-15T19:16:10.347Z - Échec du renouvellement du paiement pour le client 1: Must provide customer or from_invoice.
+2024-04-21T09:31:30.365Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-04-21T09:31:41.772Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-21T09:31:43.192Z - Fetched monthly stats for admin in 2024
+2024-04-21T09:31:43.226Z - Fetched admin dashboard
+2024-04-21T09:31:48.054Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:36:57.069Z - Failed login attempt for user brahim.rarrbo@mobilis.dz.
+2024-04-23T16:39:29.762Z - Failed login attempt for user brahim.rarrbo@mobilis.dz.
+2024-04-23T16:43:19.129Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-04-23T16:43:20.919Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:43:20.939Z - Fetched admin dashboard
+2024-04-23T16:43:33.948Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:43:58.277Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:43:59.496Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:44:49.261Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:45:16.506Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:45:25.970Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:49:58.755Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:51:35.252Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:51:42.855Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:51:46.089Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:51:49.119Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:51:53.983Z - Fetched monthly stats for admin in 2024
+2024-04-23T16:52:11.376Z - Fetched monthly stats for admin in 2023
+2024-04-23T16:52:31.024Z - Generated admin report for 2023 in PDF format
+2024-04-23T16:52:34.916Z - Generated admin report for 2023 in CSV format
+2024-04-23T18:17:08.471Z - Fetched monthly stats for admin in 2024
+2024-04-23T18:17:08.478Z - Fetched admin dashboard
+2024-04-23T18:56:26.257Z - Fetched all admin notifications
+2024-04-23T19:50:13.576Z - Fetched monthly stats for admin in 2024
+2024-04-23T19:50:13.587Z - Fetched admin dashboard
+2024-04-23T19:50:17.796Z - Fetched all admin notifications
+2024-04-23T23:38:41.732Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-04-25T19:30:34.256Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-25T19:30:36.632Z - Fetched monthly stats for admin in 2024
+2024-04-25T19:30:36.692Z - Fetched admin dashboard
+2024-04-25T22:17:36.914Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:18:28.584Z - Failed login attempt for user mediafafcontact.dz@gmail.com.
+2024-04-25T22:19:00.929Z - Failed login attempt for user info@aec.dz.
+2024-04-25T22:19:10.305Z - Failed login attempt for user info@aec.dz.
+2024-04-25T22:20:34.847Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-25T22:20:36.466Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-25T22:22:39.610Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-25T22:22:52.211Z - Failed login attempt for user info@aec.dz.
+2024-04-25T22:23:52.258Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-25T22:25:06.492Z - Failed login attempt for user info@aec.dz.
+2024-04-25T22:25:23.610Z - Failed login attempt for user info@aec.dz.
+2024-04-25T22:26:08.253Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:26:26.220Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:29:53.532Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:29:55.954Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:29:59.820Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:33:18.891Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:33:20.184Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:33:27.860Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:33:29.005Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:33:54.331Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:34:46.999Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:38:48.475Z - Failed login attempt for user info@algerietelecom.dz.
+2024-04-25T22:41:27.478Z - User info@algerietelecom.dz logged in successfully.
+2024-04-25T22:43:39.917Z - User info@algerietelecom.dz logged in successfully.
+2024-04-25T22:46:59.554Z - User mediafafcontact.dz@gmail.com logged in successfully.
+2024-04-29T13:23:25.075Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-29T13:23:25.946Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-29T13:23:48.641Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-29T13:23:49.721Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-29T13:26:25.846Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T13:26:27.899Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:26:27.915Z - Fetched admin dashboard
+2024-04-29T13:28:42.381Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:28:42.389Z - Fetched admin dashboard
+2024-04-29T13:29:03.152Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:29:03.162Z - Fetched admin dashboard
+2024-04-29T13:30:24.838Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:30:24.849Z - Fetched admin dashboard
+2024-04-29T13:30:46.364Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:30:46.371Z - Fetched admin dashboard
+2024-04-29T13:30:57.155Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:30:57.165Z - Fetched admin dashboard
+2024-04-29T13:33:09.067Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:33:09.074Z - Fetched admin dashboard
+2024-04-29T13:33:25.468Z - Fetched all admin notifications
+2024-04-29T13:37:29.825Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:37:29.834Z - Fetched admin dashboard
+2024-04-29T13:37:42.078Z - Fetched monthly stats for admin in 2024
+2024-04-29T13:37:42.086Z - Fetched admin dashboard
+2024-04-29T14:02:07.109Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:02:19.101Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:04:41.219Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:05:01.978Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T14:05:03.098Z - Fetched monthly stats for admin in 2024
+2024-04-29T14:05:03.118Z - Fetched admin dashboard
+2024-04-29T14:05:05.390Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:06:43.135Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:08:35.215Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:10:38.184Z - Failed to fetch client for modérateur with ID null: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:10:54.060Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T14:10:55.001Z - Fetched monthly stats for admin in 2024
+2024-04-29T14:10:55.019Z - Fetched admin dashboard
+2024-04-29T14:10:57.078Z - Failed to fetch client for modérateur with ID 19: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:14:28.697Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T14:15:18.160Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-04-29T14:15:32.157Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-29T14:16:48.347Z - User n.farhat@mobilis.dz logged in successfully.
+2024-04-29T14:17:13.310Z - User a.bouzid@@mobilis.dz logged in successfully.
+2024-04-29T14:19:38.498Z - Failed to fetch client for modérateur with ID 19: Cannot read properties of null (reading 'client_id')
+2024-04-29T14:19:47.012Z - User a.bouzid@@mobilis.dz logged in successfully.
+2024-04-29T14:20:07.847Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T14:20:08.571Z - Fetched monthly stats for admin in 2024
+2024-04-29T14:20:08.604Z - Fetched admin dashboard
+2024-04-29T14:57:07.561Z - Failed to fetch plan : moderateurs is not defined
+2024-04-29T15:39:40.292Z - Fetched monthly stats for admin in 2024
+2024-04-29T15:39:40.298Z - Fetched admin dashboard
+2024-04-29T15:44:20.441Z - Fetched monthly stats for admin in 2024
+2024-04-29T15:44:20.445Z - Fetched admin dashboard
+2024-04-29T15:45:00.736Z - Fetched monthly stats for admin in 2024
+2024-04-29T15:45:00.744Z - Fetched admin dashboard
+2024-04-29T16:04:28.674Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T16:04:29.273Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:04:29.284Z - Fetched admin dashboard
+2024-04-29T16:04:41.842Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-29T16:04:44.903Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T16:04:45.243Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:04:45.248Z - Fetched admin dashboard
+2024-04-29T16:05:07.116Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-04-29T16:05:11.701Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T16:05:12.006Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:05:12.012Z - Fetched admin dashboard
+2024-04-29T16:26:37.597Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T16:26:38.156Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:26:38.160Z - Fetched admin dashboard
+2024-04-29T16:26:47.311Z - Fetched all admin notifications
+2024-04-29T16:36:13.911Z - Failed to fetch signalement: WHERE parameter "mod_id" has invalid "undefined" value
+2024-04-29T16:36:16.284Z - Failed to fetch signalement: WHERE parameter "mod_id" has invalid "undefined" value
+2024-04-29T16:36:17.650Z - Failed to fetch signalement: WHERE parameter "mod_id" has invalid "undefined" value
+2024-04-29T16:37:11.798Z - Failed to fetch signalement: WHERE parameter "mod_id" has invalid "undefined" value
+2024-04-29T16:37:15.379Z - Failed to fetch signalement: WHERE parameter "mod_id" has invalid "undefined" value
+2024-04-29T16:42:29.305Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:42:29.313Z - Fetched admin dashboard
+2024-04-29T16:44:16.433Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:44:16.438Z - Fetched admin dashboard
+2024-04-29T16:47:43.490Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:47:43.496Z - Fetched admin dashboard
+2024-04-29T16:47:52.711Z - Fetched monthly stats for admin in 2023
+2024-04-29T16:48:05.869Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:48:14.892Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:48:14.897Z - Fetched admin dashboard
+2024-04-29T16:48:23.611Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:48:23.614Z - Fetched admin dashboard
+2024-04-29T16:54:54.265Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:54:54.273Z - Fetched admin dashboard
+2024-04-29T16:57:32.956Z - Fetched monthly stats for admin in 2024
+2024-04-29T16:57:32.960Z - Fetched admin dashboard
+2024-04-29T17:00:31.190Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:00:31.197Z - Fetched admin dashboard
+2024-04-29T17:00:37.105Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:00:37.109Z - Fetched admin dashboard
+2024-04-29T17:00:48.294Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:00:48.299Z - Fetched admin dashboard
+2024-04-29T17:03:14.665Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:03:14.668Z - Fetched admin dashboard
+2024-04-29T17:03:16.419Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:03:16.422Z - Fetched admin dashboard
+2024-04-29T17:03:23.588Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:03:23.593Z - Fetched admin dashboard
+2024-04-29T17:03:55.385Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:03:55.391Z - Fetched admin dashboard
+2024-04-29T17:04:10.027Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:04:10.033Z - Fetched admin dashboard
+2024-04-29T17:04:56.902Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:04:56.907Z - Fetched admin dashboard
+2024-04-29T17:09:36.488Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:09:36.494Z - Fetched admin dashboard
+2024-04-29T17:10:04.471Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:10:04.476Z - Fetched admin dashboard
+2024-04-29T17:18:06.714Z - Fetched monthly stats for admin in 2024
+2024-04-29T17:18:06.720Z - Fetched admin dashboard
+2024-04-29T17:55:23.085Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T17:55:23.095Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T17:55:27.567Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T17:55:27.569Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T17:56:37.446Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T17:56:37.449Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T17:56:41.975Z - Fetched monthly stats for modérateur 1 in 2023
+2024-04-29T17:59:25.600Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T17:59:25.607Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:01:38.146Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:01:38.153Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:01:39.455Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:01:39.458Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:02:25.865Z - User k.kacem@mobilis.dz logged in successfully.
+2024-04-29T18:02:26.412Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:02:26.420Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:04:24.079Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:04:24.083Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:04:28.223Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:04:28.228Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:04:36.186Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:04:36.190Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:04:49.154Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:04:49.157Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:05:08.858Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:05:18.242Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:05:24.894Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:05:24.899Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:05:33.586Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:05:33.589Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:06:20.918Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:06:20.921Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:07:13.823Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:07:13.829Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:07:17.334Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:07:17.337Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:08:40.867Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:08:40.871Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:09:37.458Z - Fetched monthly stats for modérateur 1 in 2023
+2024-04-29T18:10:08.964Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:10:08.973Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:11:17.419Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:11:17.427Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:11:28.926Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:11:28.930Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:12:12.081Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:12:12.088Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:12:46.030Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:12:46.038Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:13:30.164Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:13:30.170Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:13:55.987Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:13:55.995Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:14:15.264Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:14:15.272Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:14:41.893Z - Failed to fetch modérateur dashboard: clientId is not defined
+2024-04-29T18:14:41.898Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:15:22.026Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:15:22.027Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:15:58.047Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:15:58.049Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:16:55.076Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:16:55.077Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:17:32.923Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:17:32.925Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:17:46.499Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:17:46.500Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:17:55.437Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:17:55.438Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:18:06.261Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:18:06.262Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:18:34.946Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:18:34.946Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:18:54.496Z - Failed to fetch modérateur dashboard: totalSMS.count is not a function
+2024-04-29T18:18:54.498Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:19:45.969Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:19:45.981Z - Fetched dashboard for modérateur 1
+2024-04-29T18:23:33.761Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:23:33.773Z - Fetched dashboard for modérateur 1
+2024-04-29T18:24:31.436Z - Fetched monthly stats for modérateur 1 in 2023
+2024-04-29T18:24:38.156Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:24:47.411Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:24:47.421Z - Fetched dashboard for modérateur 1
+2024-04-29T18:27:39.349Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:27:39.354Z - Fetched dashboard for modérateur 1
+2024-04-29T18:27:47.513Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:27:47.518Z - Fetched dashboard for modérateur 1
+2024-04-29T18:28:39.031Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:28:39.034Z - Fetched dashboard for modérateur 1
+2024-04-29T18:31:06.987Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:31:06.990Z - Fetched dashboard for modérateur 1
+2024-04-29T18:32:10.881Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:32:10.896Z - Fetched dashboard for modérateur 1
+2024-04-29T18:39:48.932Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:39:48.947Z - Fetched dashboard for modérateur 1
+2024-04-29T18:39:51.537Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:39:51.540Z - Fetched dashboard for modérateur 1
+2024-04-29T18:40:20.159Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:40:20.162Z - Fetched dashboard for modérateur 1
+2024-04-29T18:40:43.720Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:40:43.725Z - Fetched dashboard for modérateur 1
+2024-04-29T18:42:31.427Z - Fetched monthly stats for modérateur 1 in 2024
+2024-04-29T18:42:31.432Z - Fetched dashboard for modérateur 1
+2024-04-30T15:59:37.719Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-30T15:59:41.245Z - Fetched monthly stats for admin in 2024
+2024-04-30T15:59:41.268Z - Fetched admin dashboard
+2024-04-30T16:00:55.007Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-30T16:00:56.010Z - Fetched monthly stats for admin in 2024
+2024-04-30T16:00:56.019Z - Fetched admin dashboard
+2024-04-30T16:01:03.514Z - Fetched monthly stats for admin in 2023
+2024-04-30T16:01:51.289Z - Fetched monthly stats for admin in 2023
+2024-04-30T16:01:51.298Z - Fetched admin dashboard
+2024-04-30T16:01:55.373Z - Fetched monthly stats for admin in 2024
+2024-04-30T16:01:55.376Z - Fetched admin dashboard
+2024-04-30T16:30:37.806Z - User js_zitouni@esi.dz logged in successfully.
+2024-04-30T16:30:39.637Z - Fetched monthly stats for admin in 2024
+2024-04-30T16:30:39.647Z - Fetched admin dashboard
+2024-04-30T21:18:20.593Z - Fetched dashboard for client 19
+2024-04-30T21:19:34.589Z - Fetched dashboard for client 19
+2024-04-30T21:20:28.255Z - Fetched dashboard for client 19
+2024-04-30T21:22:41.075Z - Failed to fetch client dashboard: Unknown column 'messages.createdAt' in 'where clause'
+2024-04-30T21:23:01.132Z - Failed to fetch client dashboard: Unknown column 'messages.createdAt' in 'where clause'
+2024-04-30T21:25:05.639Z - Fetched dashboard for client 19
+2024-04-30T21:27:07.851Z - Fetched dashboard for client 19
+2024-04-30T21:28:00.327Z - Fetched dashboard for client 19
+2024-04-30T21:28:14.364Z - Fetched dashboard for client 19
+2024-04-30T21:30:00.338Z - Fetched dashboard for client 1
+2024-04-30T21:31:32.486Z - Fetched dashboard for client 2
+2024-04-30T21:34:50.823Z - Fetched dashboard for client 2
+2024-04-30T22:17:27.384Z - Failed to fetch plan: Plan not found.
+2024-05-02T16:27:16.406Z - User info@algerietelecom.dz logged in successfully.
+2024-05-04T11:12:34.164Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:13:09.520Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:13:09.592Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:16:59.458Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:18:46.670Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:19:06.589Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:22:37.751Z - Failed to fetch plan: Plan not found.
+2024-05-04T11:26:58.633Z - User info@algerietelecom.dz logged in successfully.
+2024-05-04T11:27:37.378Z - Failed to fetch client dashboard: Client not found
+2024-05-04T11:30:19.465Z - User info@algerietelecom.dz logged in successfully.
+2024-05-04T11:30:23.603Z - Failed to fetch client dashboard: Client not found
+2024-05-04T11:33:19.592Z - Fetched dashboard for client 1
+2024-05-04T15:50:52.774Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-04T15:50:54.003Z - Fetched monthly stats for admin in 2024
+2024-05-04T15:50:54.031Z - Fetched admin dashboard
+2024-05-04T15:51:03.326Z - Fetched monthly stats for admin in 2023
+2024-05-04T15:51:58.207Z - Generated admin report for 2023 in PDF format
+2024-05-04T15:52:01.838Z - Generated admin report for 2023 in CSV format
+2024-05-04T15:52:32.683Z - Fetched monthly stats for admin in 2024
+2024-05-04T15:52:39.433Z - Fetched monthly stats for admin in 2023
+2024-05-04T15:52:57.022Z - Fetched all admin notifications
+2024-05-04T16:14:57.962Z - Fetched monthly stats for admin in 2024
+2024-05-04T16:14:57.973Z - Fetched admin dashboard
+2024-05-04T16:24:42.028Z - Admin with ID 2 updated successfully.
+2024-05-04T16:24:55.046Z - Admin with ID 2 updated successfully.
+2024-05-04T16:25:26.826Z - Admin with ID 2 updated successfully.
+2024-05-04T16:25:51.214Z - Failed login attempt for user brahim.rarrbo@mobilis.dz.
+2024-05-04T16:25:58.783Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-04T16:25:59.939Z - Fetched monthly stats for admin in 2024
+2024-05-04T16:25:59.954Z - Fetched admin dashboard
+2024-05-04T16:26:16.989Z - Admin with ID 2 updated successfully.
+2024-05-04T16:26:58.866Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-05-04T16:27:00.335Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-05-04T16:27:12.425Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-05-04T16:28:02.518Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-04T16:28:07.100Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-04T16:28:07.109Z - Fetched dashboard for modérateur 1
+2024-05-04T16:28:48.110Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-04T16:29:29.459Z - User ji_akkal@esi.dz logged in successfully.
+2024-05-04T16:29:30.237Z - Fetched monthly stats for modérateur 31 in 2024
+2024-05-04T16:29:30.247Z - Fetched dashboard for modérateur 31
+2024-05-04T16:29:41.195Z - Fetched monthly stats for modérateur 31 in 2023
+2024-05-04T16:29:42.575Z - Fetched monthly stats for modérateur 31 in 2024
+2024-05-04T16:33:43.450Z - Fetched monthly stats for modérateur 31 in 2024
+2024-05-04T16:33:43.458Z - Fetched dashboard for modérateur 31
+2024-05-04T16:34:18.946Z - Failed login attempt for user brahim.rarrbo@mobilis.dz.
+2024-05-04T16:34:27.493Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-04T16:34:28.184Z - Fetched monthly stats for admin in 2024
+2024-05-04T16:34:28.199Z - Fetched admin dashboard
+2024-05-04T16:34:34.743Z - Fetched monthly stats for admin in 2023
+2024-05-04T16:34:48.423Z - Fetched monthly stats for admin in 2022
+2024-05-04T16:34:50.023Z - Fetched monthly stats for admin in 2024
+2024-05-04T16:34:57.317Z - Fetched monthly stats for admin in 2023
+2024-05-04T16:38:08.574Z - User ji_akkal@esi.dz logged in successfully.
+2024-05-04T16:38:09.811Z - Fetched monthly stats for modérateur 32 in 2024
+2024-05-04T16:38:09.819Z - Fetched dashboard for modérateur 32
+2024-05-04T16:42:29.733Z - Failed login attempt for user ji_akkal@esi.dz.
+2024-05-04T16:42:36.324Z - User ji_akkal@esi.dz logged in successfully.
+2024-05-04T16:42:37.027Z - Fetched monthly stats for modérateur 33 in 2024
+2024-05-04T16:42:37.036Z - Fetched dashboard for modérateur 33
+2024-05-04T16:50:37.504Z - Failed login attempt for user upw.algerest@poste.dz.
+2024-05-04T16:50:46.657Z - Failed login attempt for user upw.algerest@poste.dz.
+2024-05-04T16:59:00.323Z - User clientap@poste.dz logged in successfully.
+2024-05-04T16:59:09.611Z - Failed login attempt for user clientap@poste.dz.
+2024-05-04T16:59:14.753Z - Failed login attempt for user clientap@poste.dz.
+2024-05-04T16:59:23.762Z - User clientap@poste.dz logged in successfully.
+2024-05-06T15:37:17.090Z - Failed to fetch contacts: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-15T09:28:09.301Z - Failed login attempt for user brahim.rarrbo@mobilis.dz.
+2024-05-15T09:28:15.174Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-15T09:28:16.809Z - Fetched monthly stats for admin in 2024
+2024-05-15T09:28:16.830Z - Fetched admin dashboard
+2024-05-15T09:28:20.839Z - Fetched monthly stats for admin in 2023
+2024-05-15T09:28:49.027Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-15T09:28:49.582Z - Fetched monthly stats for admin in 2024
+2024-05-15T09:28:49.591Z - Fetched admin dashboard
+2024-05-15T09:28:57.343Z - Fetched monthly stats for admin in 2022
+2024-05-15T09:28:59.407Z - Fetched monthly stats for admin in 2023
+2024-05-15T09:30:48.111Z - Fetched monthly stats for admin in 2024
+2024-05-15T09:30:48.113Z - Fetched admin dashboard
+2024-05-15T09:30:51.556Z - Fetched monthly stats for admin in 2023
+2024-05-15T09:46:43.011Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-15T09:46:45.108Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T09:46:45.113Z - Fetched dashboard for modérateur 1
+2024-05-15T09:48:10.622Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T09:48:10.628Z - Fetched dashboard for modérateur 1
+2024-05-15T09:48:13.180Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-15T10:05:35.152Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-15T10:05:35.756Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T10:05:35.778Z - Fetched dashboard for modérateur 1
+2024-05-15T10:05:46.230Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-15T10:05:47.417Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:05:47.431Z - Fetched admin dashboard
+2024-05-15T10:34:36.518Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:34:36.542Z - Fetched admin dashboard
+2024-05-15T10:35:47.906Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T10:35:47.918Z - Fetched dashboard for modérateur 1
+2024-05-15T10:35:50.925Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:35:50.931Z - Fetched admin dashboard
+2024-05-15T10:36:11.443Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:36:11.450Z - Fetched admin dashboard
+2024-05-15T10:37:20.326Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:37:20.332Z - Fetched admin dashboard
+2024-05-15T10:44:14.676Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:44:14.687Z - Fetched admin dashboard
+2024-05-15T10:45:05.574Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:45:05.582Z - Fetched admin dashboard
+2024-05-15T10:45:29.027Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:45:29.038Z - Fetched admin dashboard
+2024-05-15T10:45:32.602Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:45:32.608Z - Fetched admin dashboard
+2024-05-15T10:45:34.717Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:45:34.723Z - Fetched admin dashboard
+2024-05-15T10:47:39.446Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:47:39.455Z - Fetched admin dashboard
+2024-05-15T10:48:46.711Z - Fetched monthly stats for admin in 2024
+2024-05-15T10:48:46.720Z - Fetched admin dashboard
+2024-05-15T11:00:49.111Z - Fetched monthly stats for admin in 2024
+2024-05-15T11:00:49.120Z - Fetched admin dashboard
+2024-05-15T11:06:45.516Z - Fetched monthly stats for admin in 2024
+2024-05-15T11:06:45.527Z - Fetched admin dashboard
+2024-05-15T11:06:58.729Z - Fetched monthly stats for admin in 2024
+2024-05-15T11:06:58.740Z - Fetched admin dashboard
+2024-05-15T11:08:51.741Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T11:08:51.751Z - Fetched dashboard for modérateur 1
+2024-05-15T11:13:17.217Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T11:13:17.220Z - Fetched dashboard for modérateur 1
+2024-05-15T11:13:25.569Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T11:13:25.571Z - Fetched dashboard for modérateur 1
+2024-05-15T11:15:18.834Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T11:15:18.836Z - Fetched dashboard for modérateur 1
+2024-05-15T14:11:15.930Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-15T14:11:17.747Z - Fetched monthly stats for admin in 2024
+2024-05-15T14:11:17.800Z - Fetched admin dashboard
+2024-05-15T14:11:19.689Z - Fetched monthly stats for admin in 2023
+2024-05-15T14:11:42.590Z - Fetched all admin notifications
+2024-05-15T14:11:44.332Z - Fetched monthly stats for admin in 2024
+2024-05-15T14:11:44.347Z - Fetched admin dashboard
+2024-05-15T14:15:09.369Z - Fetched monthly stats for admin in 2024
+2024-05-15T14:15:09.384Z - Fetched admin dashboard
+2024-05-15T14:15:10.532Z - Fetched all admin notifications
+2024-05-15T14:15:38.906Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-15T14:15:41.238Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-15T14:15:41.245Z - Fetched dashboard for modérateur 1
+2024-05-15T14:16:03.164Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-20T13:50:28.070Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-05-20T13:50:35.275Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-20T13:50:37.182Z - Fetched monthly stats for admin in 2024
+2024-05-20T13:50:37.206Z - Fetched admin dashboard
+2024-05-20T13:50:44.460Z - Fetched monthly stats for admin in 2023
+2024-05-20T15:41:54.403Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-20T15:41:56.540Z - Fetched monthly stats for admin in 2024
+2024-05-20T15:41:56.561Z - Fetched admin dashboard
+2024-05-20T17:48:18.890Z - Fetched monthly stats for admin in 2024
+2024-05-20T17:48:18.899Z - Fetched admin dashboard
+2024-05-20T17:58:33.406Z - Fetched monthly stats for admin in 2024
+2024-05-20T17:58:33.416Z - Fetched admin dashboard
+2024-05-20T17:58:38.273Z - Fetched monthly stats for admin in 2024
+2024-05-20T17:58:38.279Z - Fetched admin dashboard
+2024-05-20T17:58:52.568Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:26:38.820Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-20T18:30:55.968Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:30:55.988Z - Fetched admin dashboard
+2024-05-20T18:31:03.348Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:31:05.401Z - Fetched monthly stats for admin in 2022
+2024-05-20T18:31:06.831Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:32:07.464Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:32:07.469Z - Fetched admin dashboard
+2024-05-20T18:33:04.113Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:33:04.119Z - Fetched admin dashboard
+2024-05-20T18:33:09.722Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:33:09.728Z - Fetched admin dashboard
+2024-05-20T18:33:39.264Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:33:39.271Z - Fetched admin dashboard
+2024-05-20T18:36:24.649Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:36:24.653Z - Fetched admin dashboard
+2024-05-20T18:36:59.529Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:36:59.537Z - Fetched admin dashboard
+2024-05-20T18:37:01.884Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:37:01.889Z - Fetched admin dashboard
+2024-05-20T18:37:03.271Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:37:03.275Z - Fetched admin dashboard
+2024-05-20T18:37:04.102Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:37:04.107Z - Fetched admin dashboard
+2024-05-20T18:37:04.871Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:37:04.875Z - Fetched admin dashboard
+2024-05-20T18:37:05.890Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:37:05.894Z - Fetched admin dashboard
+2024-05-20T18:39:14.051Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:39:14.056Z - Fetched admin dashboard
+2024-05-20T18:39:20.258Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:39:20.263Z - Fetched admin dashboard
+2024-05-20T18:39:27.807Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:39:32.116Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:40:48.540Z - Fetched monthly stats for admin in 2022
+2024-05-20T18:50:31.067Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:50:31.070Z - Fetched admin dashboard
+2024-05-20T18:54:04.826Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:54:04.828Z - Fetched admin dashboard
+2024-05-20T18:54:08.492Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:54:11.130Z - Fetched monthly stats for admin in 2022
+2024-05-20T18:54:12.797Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:54:14.972Z - Fetched monthly stats for admin in 2023
+2024-05-20T18:58:31.224Z - Fetched monthly stats for admin in 2024
+2024-05-20T18:58:31.227Z - Fetched admin dashboard
+2024-05-20T18:58:34.033Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:04:34.126Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:04:34.130Z - Fetched admin dashboard
+2024-05-20T19:04:36.628Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:04:36.632Z - Fetched admin dashboard
+2024-05-20T19:04:55.903Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:04:55.906Z - Fetched admin dashboard
+2024-05-20T19:05:39.101Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:05:39.106Z - Fetched admin dashboard
+2024-05-20T19:05:45.360Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:05:45.363Z - Fetched admin dashboard
+2024-05-20T19:05:55.263Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:06:08.145Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:06:48.432Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:06:48.436Z - Fetched admin dashboard
+2024-05-20T19:11:03.412Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:11:03.415Z - Fetched admin dashboard
+2024-05-20T19:11:07.977Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:11:07.980Z - Fetched admin dashboard
+2024-05-20T19:21:14.222Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:21:14.225Z - Fetched admin dashboard
+2024-05-20T19:21:43.866Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:21:46.528Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:28:59.076Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:28:59.081Z - Fetched admin dashboard
+2024-05-20T19:29:39.342Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:29:39.346Z - Fetched admin dashboard
+2024-05-20T19:32:44.623Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:32:44.626Z - Fetched admin dashboard
+2024-05-20T19:32:53.381Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:33:13.593Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:33:13.597Z - Fetched admin dashboard
+2024-05-20T19:33:17.246Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:33:17.248Z - Fetched admin dashboard
+2024-05-20T19:34:59.608Z - Fetched admin dashboard
+2024-05-20T19:36:57.968Z - Fetched admin dashboard
+2024-05-20T19:40:00.647Z - Fetched admin dashboard
+2024-05-20T19:40:02.121Z - Fetched admin dashboard
+2024-05-20T19:41:23.572Z - Fetched admin dashboard
+2024-05-20T19:41:45.693Z - Fetched admin dashboard
+2024-05-20T19:43:05.878Z - Fetched admin dashboard
+2024-05-20T19:45:13.933Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:45:13.940Z - Fetched admin dashboard
+2024-05-20T19:45:17.787Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:45:17.795Z - Fetched admin dashboard
+2024-05-20T19:47:01.607Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:47:01.610Z - Fetched admin dashboard
+2024-05-20T19:47:44.643Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:55:33.603Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:55:33.613Z - Fetched admin dashboard
+2024-05-20T19:55:35.643Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:55:35.649Z - Fetched admin dashboard
+2024-05-20T19:55:38.101Z - Fetched monthly stats for admin in 2023
+2024-05-20T19:57:05.541Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:57:05.546Z - Fetched admin dashboard
+2024-05-20T19:58:42.214Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:58:42.221Z - Fetched admin dashboard
+2024-05-20T19:58:56.903Z - Fetched monthly stats for admin in 2024
+2024-05-20T19:58:56.909Z - Fetched admin dashboard
+2024-05-20T19:58:59.430Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:06:15.117Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:06:15.121Z - Fetched admin dashboard
+2024-05-20T20:09:25.283Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:09:25.291Z - Fetched admin dashboard
+2024-05-20T20:09:46.752Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:16:22.788Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:16:22.793Z - Fetched admin dashboard
+2024-05-20T20:16:25.566Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:16:25.572Z - Fetched admin dashboard
+2024-05-20T20:17:27.325Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:17:27.333Z - Fetched admin dashboard
+2024-05-20T20:26:42.867Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:26:42.872Z - Fetched admin dashboard
+2024-05-20T20:27:12.758Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:27:12.763Z - Fetched admin dashboard
+2024-05-20T20:31:21.383Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:31:21.395Z - Fetched admin dashboard
+2024-05-20T20:31:34.931Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:31:34.940Z - Fetched admin dashboard
+2024-05-20T20:31:49.119Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:31:49.126Z - Fetched admin dashboard
+2024-05-20T20:31:52.441Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:31:52.448Z - Fetched admin dashboard
+2024-05-20T20:31:58.051Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:31:58.061Z - Fetched admin dashboard
+2024-05-20T20:32:01.497Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:32:01.504Z - Fetched admin dashboard
+2024-05-20T20:32:03.347Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:32:06.781Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:32:08.507Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:32:08.516Z - Fetched admin dashboard
+2024-05-20T20:33:11.135Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:33:11.141Z - Fetched admin dashboard
+2024-05-20T20:33:13.275Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:33:13.281Z - Fetched admin dashboard
+2024-05-20T20:36:03.931Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:36:05.004Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:36:14.190Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:39:06.060Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:39:06.081Z - Fetched admin dashboard
+2024-05-20T20:39:09.095Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:39:09.104Z - Fetched admin dashboard
+2024-05-20T20:40:08.356Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:40:08.369Z - Fetched admin dashboard
+2024-05-20T20:41:00.529Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:41:00.549Z - Fetched admin dashboard
+2024-05-20T20:41:10.141Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:41:10.152Z - Fetched admin dashboard
+2024-05-20T20:41:41.793Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:41:41.801Z - Fetched admin dashboard
+2024-05-20T20:42:01.194Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:42:40.199Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:42:40.209Z - Fetched admin dashboard
+2024-05-20T20:43:41.374Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:43:41.382Z - Fetched admin dashboard
+2024-05-20T20:43:43.566Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:43:43.575Z - Fetched admin dashboard
+2024-05-20T20:45:00.149Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:45:00.159Z - Fetched admin dashboard
+2024-05-20T20:50:15.827Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:50:15.834Z - Fetched admin dashboard
+2024-05-20T20:50:17.737Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:50:17.745Z - Fetched admin dashboard
+2024-05-20T20:52:38.109Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:52:38.118Z - Fetched admin dashboard
+2024-05-20T20:52:40.213Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:52:40.221Z - Fetched admin dashboard
+2024-05-20T20:58:45.729Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:58:45.736Z - Fetched admin dashboard
+2024-05-20T20:58:48.392Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:58:48.397Z - Fetched admin dashboard
+2024-05-20T20:58:51.680Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:58:51.687Z - Fetched admin dashboard
+2024-05-20T20:59:02.996Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:59:40.603Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:59:46.279Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:59:51.679Z - Fetched monthly stats for admin in 2022
+2024-05-20T20:59:53.777Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:59:56.267Z - Fetched monthly stats for admin in 2023
+2024-05-20T20:59:58.318Z - Fetched monthly stats for admin in 2024
+2024-05-20T20:59:59.983Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:00:01.454Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:00:04.161Z - Fetched monthly stats for admin in 2021
+2024-05-20T21:00:05.932Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:00:10.164Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:00:40.394Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:00:41.889Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:00:41.901Z - Fetched admin dashboard
+2024-05-20T21:00:47.720Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:00:52.271Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:00:55.067Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:00:55.079Z - Fetched admin dashboard
+2024-05-20T21:01:02.292Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:01:05.695Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:01:07.348Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:03:07.220Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:03:07.226Z - Fetched admin dashboard
+2024-05-20T21:04:51.520Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:04:51.529Z - Fetched admin dashboard
+2024-05-20T21:04:55.971Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:04:55.977Z - Fetched admin dashboard
+2024-05-20T21:05:14.571Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:05:14.578Z - Fetched admin dashboard
+2024-05-20T21:05:17.527Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:05:21.028Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:05:21.032Z - Fetched admin dashboard
+2024-05-20T21:05:26.667Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:05:26.679Z - Fetched admin dashboard
+2024-05-20T21:05:29.333Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:07:19.346Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:07:19.353Z - Fetched admin dashboard
+2024-05-20T21:07:38.343Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:07:38.349Z - Fetched admin dashboard
+2024-05-20T21:10:00.863Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:10:00.871Z - Fetched admin dashboard
+2024-05-20T21:10:03.235Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:10:03.240Z - Fetched admin dashboard
+2024-05-20T21:10:07.403Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:10:07.409Z - Fetched admin dashboard
+2024-05-20T21:10:27.192Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:10:27.198Z - Fetched admin dashboard
+2024-05-20T21:10:31.154Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:10:34.853Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:10:37.129Z - Fetched monthly stats for admin in 2020
+2024-05-20T21:10:38.525Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:10:43.715Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:12:13.902Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:12:13.906Z - Fetched admin dashboard
+2024-05-20T21:12:16.721Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:12:18.510Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:13:43.182Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:13:43.191Z - Fetched admin dashboard
+2024-05-20T21:14:35.043Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:14:35.048Z - Fetched admin dashboard
+2024-05-20T21:14:37.502Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:14:37.526Z - Fetched admin dashboard
+2024-05-20T21:15:33.792Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:15:33.800Z - Fetched admin dashboard
+2024-05-20T21:15:46.988Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:15:46.993Z - Fetched admin dashboard
+2024-05-20T21:17:34.567Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:17:34.572Z - Fetched admin dashboard
+2024-05-20T21:17:37.652Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:17:37.661Z - Fetched admin dashboard
+2024-05-20T21:19:14.722Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:19:14.730Z - Fetched admin dashboard
+2024-05-20T21:19:27.127Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:19:27.134Z - Fetched admin dashboard
+2024-05-20T21:23:18.135Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:23:18.142Z - Fetched admin dashboard
+2024-05-20T21:24:38.729Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:24:38.736Z - Fetched admin dashboard
+2024-05-20T21:25:35.303Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:25:39.114Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:29:40.170Z - Fetched monthly stats for admin in 2019
+2024-05-20T21:29:45.300Z - Fetched monthly stats for admin in 2021
+2024-05-20T21:29:47.410Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:29:48.959Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:29:51.460Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:29:53.343Z - Fetched monthly stats for admin in 2021
+2024-05-20T21:29:54.823Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:30:09.344Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:30:09.359Z - Fetched admin dashboard
+2024-05-20T21:30:10.397Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:30:10.406Z - Fetched admin dashboard
+2024-05-20T21:30:12.820Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:30:15.229Z - Fetched monthly stats for admin in 2020
+2024-05-20T21:30:16.682Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:30:18.127Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:30:19.720Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:32:46.185Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:32:46.192Z - Fetched admin dashboard
+2024-05-20T21:32:48.309Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:32:50.029Z - Fetched monthly stats for admin in 2019
+2024-05-20T21:32:53.570Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:32:53.576Z - Fetched admin dashboard
+2024-05-20T21:32:56.792Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:32:56.800Z - Fetched admin dashboard
+2024-05-20T21:33:09.784Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:33:09.790Z - Fetched admin dashboard
+2024-05-20T21:34:10.686Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:10.693Z - Fetched admin dashboard
+2024-05-20T21:34:14.631Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:14.636Z - Fetched admin dashboard
+2024-05-20T21:34:44.533Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:44.539Z - Fetched admin dashboard
+2024-05-20T21:34:47.057Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:47.067Z - Fetched admin dashboard
+2024-05-20T21:34:49.849Z - Fetched monthly stats for admin in 2018
+2024-05-20T21:34:51.478Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:53.116Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:34:54.405Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:56.634Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:34:56.642Z - Fetched admin dashboard
+2024-05-20T21:35:09.058Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:35:09.066Z - Fetched admin dashboard
+2024-05-20T21:36:05.041Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:36:05.052Z - Fetched admin dashboard
+2024-05-20T21:36:32.792Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:36:32.799Z - Fetched admin dashboard
+2024-05-20T21:47:30.793Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:47:30.801Z - Fetched admin dashboard
+2024-05-20T21:47:34.135Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:47:34.142Z - Fetched admin dashboard
+2024-05-20T21:52:57.845Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:52:57.851Z - Fetched admin dashboard
+2024-05-20T21:54:12.114Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:54:12.122Z - Fetched admin dashboard
+2024-05-20T21:54:35.926Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:54:35.931Z - Fetched admin dashboard
+2024-05-20T21:55:29.414Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:55:29.420Z - Fetched admin dashboard
+2024-05-20T21:55:32.943Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:55:34.967Z - Fetched monthly stats for admin in 2021
+2024-05-20T21:55:55.846Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:55:55.853Z - Fetched admin dashboard
+2024-05-20T21:57:47.400Z - Failed to fetch admin monthly stats: Unknown column 'undefined' in 'where clause'
+2024-05-20T21:57:47.400Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:57:47.407Z - Fetched admin dashboard
+2024-05-20T21:57:47.411Z - Failed to fetch admin monthly stats: Unknown column 'undefined' in 'where clause'
+2024-05-20T21:57:49.669Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:57:51.967Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:57:58.344Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:58:00.564Z - Fetched monthly stats for admin in 2020
+2024-05-20T21:58:25.647Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:58:25.652Z - Fetched admin dashboard
+2024-05-20T21:58:27.593Z - Fetched monthly stats for admin in 2022
+2024-05-20T21:58:29.340Z - Fetched monthly stats for admin in 2023
+2024-05-20T21:58:44.054Z - Fetched monthly stats for admin in 2024
+2024-05-20T21:58:44.060Z - Fetched admin dashboard
+2024-05-20T21:58:45.594Z - Fetched monthly stats for admin in 2020
+2024-05-20T21:58:49.250Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:02:49.568Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:02:49.572Z - Fetched admin dashboard
+2024-05-20T22:08:30.237Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:08:30.244Z - Fetched admin dashboard
+2024-05-20T22:19:29.478Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:29.486Z - Fetched admin dashboard
+2024-05-20T22:19:29.491Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:33.170Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:19:33.181Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:19:38.603Z - Fetched monthly stats for admin in 2021
+2024-05-20T22:19:38.613Z - Fetched monthly stats for admin in 2021
+2024-05-20T22:19:40.571Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:19:40.580Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:19:44.348Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:44.358Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:46.104Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:19:46.113Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:19:47.702Z - Fetched monthly stats for admin in 2018
+2024-05-20T22:19:47.712Z - Fetched monthly stats for admin in 2018
+2024-05-20T22:19:49.783Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:49.799Z - Fetched admin dashboard
+2024-05-20T22:19:49.799Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:19:59.874Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:19:59.884Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:20:08.658Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:20:08.666Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:20:10.177Z - Fetched monthly stats for admin in 2020
+2024-05-20T22:20:10.186Z - Fetched monthly stats for admin in 2020
+2024-05-20T22:20:11.425Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:20:11.435Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:20:13.737Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:20:13.746Z - Fetched admin dashboard
+2024-05-20T22:20:13.755Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:23:59.318Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:23:59.326Z - Fetched admin dashboard
+2024-05-20T22:23:59.331Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:01.923Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:01.924Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:24:07.021Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:07.035Z - Fetched admin dashboard
+2024-05-20T22:24:07.035Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:17.414Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:17.418Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:17.427Z - Fetched admin dashboard
+2024-05-20T22:24:19.600Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:19.602Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:19.608Z - Fetched admin dashboard
+2024-05-20T22:24:23.317Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:23.318Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:24:26.940Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:26.941Z - Fetched monthly stats for admin in 2020
+2024-05-20T22:24:29.654Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:29.664Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:24:40.492Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:24:40.509Z - Fetched admin dashboard
+2024-05-20T22:24:40.510Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:26:30.255Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:26:30.263Z - Fetched admin dashboard
+2024-05-20T22:26:30.272Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:26:36.221Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:26:36.234Z - Fetched admin dashboard
+2024-05-20T22:26:36.235Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:29:20.982Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:29:20.991Z - Fetched admin dashboard
+2024-05-20T22:29:20.998Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:09.986Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:09.993Z - Fetched admin dashboard
+2024-05-20T22:31:11.560Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:11.566Z - Fetched admin dashboard
+2024-05-20T22:31:41.171Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:41.185Z - Fetched admin dashboard
+2024-05-20T22:31:41.186Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:44.438Z - Fetched monthly stats for admin in 2021
+2024-05-20T22:31:44.449Z - Fetched monthly stats for admin in 2021
+2024-05-20T22:31:47.907Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:31:47.922Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:31:50.914Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:50.924Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:31:52.372Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:31:52.381Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:32:03.136Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:03.155Z - Fetched admin dashboard
+2024-05-20T22:32:03.160Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:04.269Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:32:04.279Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:32:08.241Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:32:08.251Z - Fetched monthly stats for admin in 2022
+2024-05-20T22:32:09.954Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:09.962Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:12.919Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:12.934Z - Fetched admin dashboard
+2024-05-20T22:32:12.934Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:18.733Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:32:18.742Z - Fetched monthly stats for admin in 2023
+2024-05-20T22:32:22.066Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:22.077Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:25.372Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:25.387Z - Fetched admin dashboard
+2024-05-20T22:32:25.387Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:56.444Z - Fetched monthly stats for admin in 2024
+2024-05-20T22:32:56.450Z - Fetched admin dashboard
+2024-05-20T22:33:01.024Z - Fetched monthly stats for admin in 2023
+2024-05-26T14:57:31.447Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-26T14:57:51.997Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T14:57:54.042Z - Fetched monthly stats for admin in 2024
+2024-05-26T14:57:54.060Z - Fetched admin dashboard
+2024-05-26T14:58:03.801Z - Fetched monthly stats for admin in 2024
+2024-05-26T14:58:03.805Z - Fetched admin dashboard
+2024-05-26T15:01:50.509Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:01:50.517Z - Fetched admin dashboard
+2024-05-26T15:02:01.271Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:02:01.279Z - Fetched admin dashboard
+2024-05-26T15:02:07.806Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:02:07.816Z - Fetched admin dashboard
+2024-05-26T15:02:12.734Z - Fetched all admin notifications
+2024-05-26T15:05:12.163Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:05:12.171Z - Fetched admin dashboard
+2024-05-26T15:07:02.144Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:07:02.151Z - Fetched admin dashboard
+2024-05-26T15:07:44.311Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:07:44.315Z - Fetched admin dashboard
+2024-05-26T15:08:55.827Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:08:55.835Z - Fetched admin dashboard
+2024-05-26T15:09:23.046Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:09:23.055Z - Fetched admin dashboard
+2024-05-26T15:09:37.187Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-26T15:09:40.385Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:09:40.394Z - Fetched admin dashboard
+2024-05-26T15:24:31.902Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:24:31.923Z - Fetched admin dashboard
+2024-05-26T15:24:42.658Z - Fetched monthly stats for admin in 2023
+2024-05-26T15:25:18.935Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:25:21.449Z - Fetched monthly stats for admin in 2023
+2024-05-26T15:25:27.706Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:25:37.483Z - Fetched monthly stats for admin in 2023
+2024-05-26T15:27:54.649Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:27:54.658Z - Fetched admin dashboard
+2024-05-26T15:27:58.217Z - Fetched monthly stats for admin in 2023
+2024-05-26T15:29:34.154Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:29:34.163Z - Fetched admin dashboard
+2024-05-26T15:29:56.165Z - Fetched monthly stats for admin in 2023
+2024-05-26T15:30:02.161Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:30:02.174Z - Fetched admin dashboard
+2024-05-26T15:30:11.017Z - Fetched monthly stats for admin in 2024
+2024-05-26T15:30:11.025Z - Fetched admin dashboard
+2024-05-26T16:09:24.802Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:09:24.805Z - Fetched monthly stats for admin in 2024
+2024-05-26T16:09:33.986Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:09:33.987Z - Fetched monthly stats for admin in 2024
+2024-05-26T16:11:26.533Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:11:26.534Z - Fetched monthly stats for admin in 2024
+2024-05-26T16:11:38.171Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:11:38.722Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:11:38.726Z - Fetched monthly stats for admin in 2024
+2024-05-26T16:13:12.495Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:13:12.512Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:18:07.063Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:18:07.072Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:18:40.712Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:18:42.567Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:18:58.638Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:18:58.646Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:19:25.868Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:19:25.880Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:20:10.477Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:20:10.499Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:21:02.903Z - Fetched admin dashboard
+2024-05-26T16:21:02.904Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:22:33.531Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:22:33.540Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:22:35.671Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:22:35.686Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:23:51.129Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:23:51.158Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:23:55.882Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:23:55.892Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:24:06.220Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:24:06.785Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:24:06.795Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:25:19.700Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:25:19.723Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:25:34.187Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:25:34.737Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:25:34.752Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:25:54.095Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:25:54.105Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:26:04.278Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:26:05.141Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:26:05.153Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:26:37.343Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:26:46.076Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:27:44.482Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:27:44.490Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:27:46.573Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:27:46.582Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:31:12.435Z - Fetched admin dashboard
+2024-05-26T16:31:12.436Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:32:10.446Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:32:10.455Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:33:19.088Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-26T16:33:21.789Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:33:24.212Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:33:24.222Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:35:26.757Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:35:26.789Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:36:44.188Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:36:44.210Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:38:00.168Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:38:00.188Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:38:07.394Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:38:07.411Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:38:24.413Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:38:24.446Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:39:05.202Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:39:05.230Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:39:34.006Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:39:34.028Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:40:07.213Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:40:07.229Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:42:45.974Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T16:43:57.045Z - Failed to fetch moderateur dashboard: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-26T16:45:12.636Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T16:57:46.845Z - Failed to fetch moderateur dashboard: Cannot access 'clients' before initialization
+2024-05-26T16:59:32.558Z - Fetched moderateur dashboard
+2024-05-26T17:00:23.844Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T17:00:23.849Z - Fetched moderateur dashboard
+2024-05-26T17:01:34.897Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-26T17:03:17.402Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T17:03:17.406Z - Fetched moderateur dashboard
+2024-05-26T17:07:12.835Z - Fetched monthly stats for admin in 2024
+2024-05-26T17:07:12.849Z - Fetched admin dashboard
+2024-05-26T17:07:21.915Z - Fetched monthly stats for admin in 2023
+2024-05-26T17:07:29.231Z - Fetched monthly stats for admin in 2024
+2024-05-26T17:07:33.945Z - Fetched monthly stats for admin in 2023
+2024-05-26T17:12:11.797Z - Failed to fetch moderateur monthly stats: Cannot access 'clients' before initialization
+2024-05-26T17:12:11.846Z - Fetched moderateur dashboard
+2024-05-26T17:12:18.402Z - Failed to fetch moderateur monthly stats: Cannot access 'clients' before initialization
+2024-05-26T17:12:18.424Z - Fetched moderateur dashboard
+2024-05-26T17:12:54.073Z - Failed to fetch moderateur monthly stats: Cannot access 'clients' before initialization
+2024-05-26T17:13:54.101Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T17:13:54.117Z - Fetched moderateur dashboard
+2024-05-26T17:13:59.314Z - Fetched monthly stats for admin in 2024
+2024-05-26T17:14:07.211Z - Fetched monthly stats for admin in 2023
+2024-05-26T17:14:10.520Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-26T17:19:33.555Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-26T17:19:33.571Z - Fetched moderateur dashboard
+2024-05-26T17:21:05.183Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-26T17:21:05.193Z - Fetched moderateur dashboard
+2024-05-26T17:21:31.954Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T17:21:31.967Z - Fetched moderateur dashboard
+2024-05-26T17:33:01.848Z - Failed to fetch clients: page is not defined
+2024-05-26T17:33:05.922Z - Failed to fetch clients: page is not defined
+2024-05-26T17:33:36.951Z - Failed to fetch clients: page is not defined
+2024-05-26T17:49:01.204Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T17:49:01.221Z - Fetched moderateur dashboard
+2024-05-26T18:42:04.873Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:42:22.825Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:42:33.715Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:42:48.752Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:43:10.024Z - Admin with ID 1 updated successfully.
+2024-05-26T18:43:30.122Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-26T18:43:31.040Z - Fetched monthly stats for admin in 2024
+2024-05-26T18:43:31.051Z - Fetched admin dashboard
+2024-05-26T18:43:37.222Z - Admin with ID 1 updated successfully.
+2024-05-26T18:45:01.977Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:45:12.716Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:48:53.943Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T18:48:53.960Z - Fetched moderateur dashboard
+2024-05-26T18:49:53.409Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:50:03.048Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:50:45.647Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:51:04.609Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-26T18:51:06.553Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-26T18:51:07.065Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T18:51:07.081Z - Fetched moderateur dashboard
+2024-05-26T18:51:17.078Z - Moderateur with ID 1 updated successfully.
+2024-05-26T18:51:25.229Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-26T18:51:25.242Z - Fetched moderateur dashboard
+2024-05-26T18:51:39.190Z - Fetched all admin notifications
+2024-05-26T18:56:19.440Z - Fetched monthly stats for admin in 2024
+2024-05-26T18:56:19.447Z - Fetched admin dashboard
+2024-05-26T18:56:21.102Z - Fetched monthly stats for admin in 2023
+2024-05-27T09:59:04.689Z - Fetched monthly stats for admin in 2024
+2024-05-27T09:59:04.694Z - Fetched admin dashboard
+2024-05-27T09:59:31.392Z - Fetched monthly stats for admin in 2024
+2024-05-27T09:59:31.396Z - Fetched admin dashboard
+2024-05-27T09:59:49.480Z - Failed to create client: notNull Violation: clients.mod_id cannot be null
+2024-05-27T10:00:04.216Z - Fetched monthly stats for admin in 2024
+2024-05-27T10:00:04.222Z - Fetched admin dashboard
+2024-05-27T10:00:51.388Z - Failed to create client: notNull Violation: clients.mod_id cannot be null
+2024-05-27T10:03:00.654Z - Fetched monthly stats for admin in 2024
+2024-05-27T10:03:00.669Z - Fetched admin dashboard
+2024-05-27T11:40:52.842Z - Fetched monthly stats for admin in 2024
+2024-05-27T11:40:52.852Z - Fetched admin dashboard
+2024-05-27T13:26:25.781Z - Fetched monthly stats for admin in 2024
+2024-05-27T13:26:25.794Z - Fetched admin dashboard
+2024-05-27T13:26:36.011Z - Fetched monthly stats for admin in 2024
+2024-05-27T13:26:36.020Z - Fetched admin dashboard
+2024-05-27T15:22:42.702Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:22:42.712Z - Fetched admin dashboard
+2024-05-27T15:23:13.545Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:23:13.561Z - Fetched moderateur dashboard
+2024-05-27T15:23:28.237Z - Fetched all admin notifications
+2024-05-27T15:23:34.337Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:23:34.352Z - Fetched moderateur dashboard
+2024-05-27T15:24:30.908Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-27T15:24:50.383Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:32:30.529Z - Fetched monthly stats for client 1 in 2024
+2024-05-27T15:32:43.551Z - Fetched monthly stats for client 1 in 2023
+2024-05-27T15:35:39.203Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:35:39.224Z - Fetched moderateur dashboard
+2024-05-27T15:35:49.488Z - Moderateur with ID 1 updated successfully.
+2024-05-27T15:35:58.101Z - Moderateur with ID 1 updated successfully.
+2024-05-27T15:36:04.986Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:36:04.998Z - Fetched admin dashboard
+2024-05-27T15:36:14.635Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:36:14.643Z - Fetched admin dashboard
+2024-05-27T15:36:17.319Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:36:17.326Z - Fetched admin dashboard
+2024-05-27T15:36:21.927Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:36:21.934Z - Fetched admin dashboard
+2024-05-27T15:36:28.796Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:36:28.807Z - Fetched moderateur dashboard
+2024-05-27T15:36:31.461Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:36:31.486Z - Fetched moderateur dashboard
+2024-05-27T15:36:37.905Z - Fetched all admin notifications
+2024-05-27T15:36:39.771Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:36:39.781Z - Fetched moderateur dashboard
+2024-05-27T15:37:19.319Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-27T15:37:22.970Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:37:27.956Z - Fetched monthly stats for admin in 2022
+2024-05-27T15:37:29.255Z - Fetched monthly stats for admin in 2023
+2024-05-27T15:37:30.675Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:39:18.869Z - User a.bouzid@@mobilis.dz logged in successfully.
+2024-05-27T15:39:19.451Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-05-27T15:39:19.453Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:39:21.467Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:40:11.278Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:40:11.285Z - Fetched admin dashboard
+2024-05-27T15:40:13.287Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-05-27T15:40:13.288Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:40:40.492Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:40:41.439Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:40:50.662Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:40:51.891Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:40:55.239Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:41:00.891Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:41:02.686Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-27T15:41:43.297Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-27T15:41:43.875Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:41:43.898Z - Fetched moderateur dashboard
+2024-05-27T15:41:48.604Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-27T15:42:14.580Z - User n.farhat@mobilis.dz logged in successfully.
+2024-05-27T15:42:15.144Z - Fetched monthly stats for modérateur 2 in 2024
+2024-05-27T15:42:15.160Z - Fetched moderateur dashboard
+2024-05-27T15:42:28.736Z - Fetched monthly stats for modérateur 2 in 2023
+2024-05-27T15:43:09.861Z - User a.bouzid@@mobilis.dz logged in successfully.
+2024-05-27T15:43:10.413Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-05-27T15:43:10.414Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:44:56.614Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:44:56.630Z - Fetched admin dashboard
+2024-05-27T15:45:00.283Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-05-27T15:45:00.284Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:45:33.091Z - Fetched monthly stats for modérateur 30 in 2024
+2024-05-27T15:45:33.109Z - Fetched moderateur dashboard
+2024-05-27T15:46:07.417Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-05-27T15:46:07.418Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-05-27T15:46:15.438Z - Fetched monthly stats for admin in 2024
+2024-05-27T15:46:15.444Z - Fetched admin dashboard
+2024-05-27T15:46:24.686Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-27T15:46:25.252Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:46:25.266Z - Fetched moderateur dashboard
+2024-05-27T15:46:31.881Z - Moderateur with ID 1 updated successfully.
+2024-05-27T15:46:38.649Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-27T15:46:39.255Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-27T15:46:39.267Z - Fetched moderateur dashboard
+2024-05-28T11:34:04.542Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T11:34:04.554Z - Fetched moderateur dashboard
+2024-05-28T11:34:15.154Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-28T11:34:15.483Z - Fetched monthly stats for admin in 2024
+2024-05-28T11:34:15.493Z - Fetched admin dashboard
+2024-05-28T11:34:18.910Z - Fetched monthly stats for admin in 2024
+2024-05-28T11:34:18.914Z - Fetched admin dashboard
+2024-05-28T11:35:06.559Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T11:35:06.565Z - Fetched moderateur dashboard
+2024-05-28T11:41:40.073Z - Fetched all admin notifications
+2024-05-28T11:42:01.509Z - Fetched all admin notifications
+2024-05-28T12:00:19.852Z - Fetched all moderateur notifications
+2024-05-28T12:00:25.611Z - Fetched all moderateur notifications
+2024-05-28T12:06:13.707Z - Fetched all moderateur notifications
+2024-05-28T13:40:00.592Z - Failed to unblock client with ID undefined: WHERE parameter "client_id" has invalid "undefined" value
+2024-05-28T14:35:46.141Z - Fetched all moderateur notifications
+2024-05-28T14:37:34.270Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T14:37:34.286Z - Fetched moderateur dashboard
+2024-05-28T15:13:40.149Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:13:40.161Z - Fetched admin dashboard
+2024-05-28T15:14:58.713Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:14:58.723Z - Fetched admin dashboard
+2024-05-28T15:15:03.322Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:15:06.910Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:15:06.927Z - Fetched moderateur dashboard
+2024-05-28T15:15:08.871Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-28T15:15:56.528Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:15:56.544Z - Fetched moderateur dashboard
+2024-05-28T15:15:58.886Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-28T15:16:40.651Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:16:40.661Z - Fetched moderateur dashboard
+2024-05-28T15:17:33.661Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:17:33.666Z - Fetched admin dashboard
+2024-05-28T15:26:51.105Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:26:51.110Z - Fetched admin dashboard
+2024-05-28T15:26:53.333Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:26:53.339Z - Fetched admin dashboard
+2024-05-28T15:26:53.843Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:26:53.878Z - Fetched admin dashboard
+2024-05-28T15:26:57.346Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:27:00.159Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:27:28.009Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:35:42.364Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:35:42.370Z - Fetched admin dashboard
+2024-05-28T15:36:13.443Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:41:00.177Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:41:00.183Z - Fetched admin dashboard
+2024-05-28T15:41:32.674Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:42:53.632Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:42:53.638Z - Fetched admin dashboard
+2024-05-28T15:42:56.529Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:42:56.534Z - Fetched admin dashboard
+2024-05-28T15:43:41.447Z - Fetched monthly stats for admin in 2023
+2024-05-28T15:43:58.531Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:43:58.543Z - Fetched admin dashboard
+2024-05-28T15:45:44.749Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:45:44.756Z - Fetched moderateur dashboard
+2024-05-28T15:47:28.782Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T15:47:29.400Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:47:29.417Z - Fetched moderateur dashboard
+2024-05-28T15:47:47.364Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-28T15:48:10.543Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:48:10.555Z - Fetched moderateur dashboard
+2024-05-28T15:48:50.689Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-28T15:48:56.035Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:50:13.065Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:50:13.073Z - Fetched admin dashboard
+2024-05-28T15:50:31.441Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:50:31.449Z - Fetched moderateur dashboard
+2024-05-28T15:53:27.111Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:53:27.136Z - Fetched moderateur dashboard
+2024-05-28T15:53:33.118Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:53:33.127Z - Fetched admin dashboard
+2024-05-28T15:53:33.718Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:53:33.726Z - Fetched moderateur dashboard
+2024-05-28T15:53:35.548Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:53:35.557Z - Fetched moderateur dashboard
+2024-05-28T15:54:05.944Z - Fetched monthly stats for admin in 2024
+2024-05-28T15:54:05.952Z - Fetched admin dashboard
+2024-05-28T15:55:08.856Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T15:55:08.864Z - Fetched moderateur dashboard
+2024-05-28T15:55:11.508Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-28T16:03:26.694Z - Fetched monthly stats for admin in 2024
+2024-05-28T16:03:26.701Z - Fetched admin dashboard
+2024-05-28T16:03:39.083Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T16:03:39.096Z - Fetched moderateur dashboard
+2024-05-28T16:03:46.952Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T16:03:46.957Z - Fetched moderateur dashboard
+2024-05-28T16:03:50.078Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T16:03:50.085Z - Fetched moderateur dashboard
+2024-05-28T16:04:37.154Z - Fetched monthly stats for admin in 2024
+2024-05-28T16:04:37.160Z - Fetched admin dashboard
+2024-05-28T16:05:08.980Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-28T16:05:09.671Z - Fetched monthly stats for admin in 2024
+2024-05-28T16:05:09.682Z - Fetched admin dashboard
+2024-05-28T19:02:21.347Z - Fetched monthly stats for admin in 2024
+2024-05-28T19:02:21.357Z - Fetched admin dashboard
+2024-05-28T19:40:44.447Z - Fetched monthly stats for admin in 2024
+2024-05-28T19:40:44.452Z - Fetched admin dashboard
+2024-05-28T19:40:50.368Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T19:40:50.376Z - Fetched moderateur dashboard
+2024-05-28T19:42:25.282Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-28T19:42:25.703Z - Fetched monthly stats for admin in 2024
+2024-05-28T19:42:25.710Z - Fetched admin dashboard
+2024-05-28T19:42:36.439Z - Fetched monthly stats for admin in 2023
+2024-05-28T19:42:59.951Z - Fetched monthly stats for admin in 2024
+2024-05-28T19:42:59.960Z - Fetched admin dashboard
+2024-05-28T20:17:54.591Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-28T20:17:58.118Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:18:00.218Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:18:38.443Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:18:53.652Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:20:16.399Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-28T20:20:26.401Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-28T20:20:32.345Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:20:34.353Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T20:20:34.365Z - Fetched moderateur dashboard
+2024-05-28T20:20:54.400Z - User s.touati@mobilis.dz logged in successfully.
+2024-05-28T20:21:00.720Z - User s.touati@mobilis.dz logged in successfully.
+2024-05-28T20:21:20.879Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-28T20:21:33.319Z - Failed login attempt for user s.touati@mobilis.dz.
+2024-05-28T20:22:40.184Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:22:49.339Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-28T20:22:49.971Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T20:22:49.988Z - Fetched moderateur dashboard
+2024-05-28T20:24:45.888Z - Fetched monthly stats for admin in 2024
+2024-05-28T20:24:45.898Z - Fetched admin dashboard
+2024-05-28T20:47:55.357Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T20:47:55.367Z - Fetched moderateur dashboard
+2024-05-28T20:47:58.656Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T20:47:58.665Z - Fetched moderateur dashboard
+2024-05-28T20:48:28.208Z - Admin notification created
+2024-05-28T20:48:28.228Z - Notification created for client 55
+2024-05-28T20:48:35.785Z - Fetched monthly stats for admin in 2024
+2024-05-28T20:48:35.797Z - Fetched admin dashboard
+2024-05-28T20:48:38.362Z - Fetched monthly stats for admin in 2024
+2024-05-28T20:48:38.367Z - Fetched admin dashboard
+2024-05-28T20:48:38.874Z - Fetched all admin notifications
+2024-05-28T20:52:41.954Z - Fetched all admin notifications
+2024-05-28T20:53:53.317Z - Fetched all moderateur notifications
+2024-05-28T20:56:07.644Z - Fetched all admin notifications
+2024-05-28T21:12:09.269Z - Admin notification created
+2024-05-28T21:12:09.287Z - Notification created for client 55
+2024-05-28T21:12:29.118Z - Fetched all admin notifications
+2024-05-28T21:21:27.769Z - Fetched all admin notifications
+2024-05-28T21:21:58.064Z - Fetched all admin notifications
+2024-05-28T21:22:32.387Z - Admin notification created
+2024-05-28T21:22:32.403Z - Notification created for client 55
+2024-05-28T21:22:39.208Z - Fetched all admin notifications
+2024-05-28T21:28:29.398Z - Fetched all admin notifications
+2024-05-28T21:28:41.215Z - Admin notification created
+2024-05-28T21:28:41.229Z - Notification created for client 6
+2024-05-28T21:28:47.314Z - Fetched all admin notifications
+2024-05-28T21:29:14.425Z - Admin notification created
+2024-05-28T21:29:14.439Z - Notification created for client 6
+2024-05-28T21:29:17.163Z - Fetched all admin notifications
+2024-05-28T21:29:45.681Z - Admin notification created
+2024-05-28T21:29:45.695Z - Notification created for client 10
+2024-05-28T21:29:49.668Z - Fetched all admin notifications
+2024-05-28T21:30:02.224Z - Admin notification created
+2024-05-28T21:30:02.239Z - Notification created for client 11
+2024-05-28T21:30:04.525Z - Fetched all admin notifications
+2024-05-28T21:31:02.891Z - Fetched all admin notifications
+2024-05-28T21:38:09.210Z - Admin notification created
+2024-05-28T21:38:09.229Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:39:01.062Z - Fetched all admin notifications
+2024-05-28T21:39:58.025Z - Admin notification created
+2024-05-28T21:39:58.044Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:44:27.481Z - Admin notification created
+2024-05-28T21:44:27.497Z - Notification created for client 58
+2024-05-28T21:44:27.620Z - Admin notification created
+2024-05-28T21:44:27.636Z - Notification created for client 59
+2024-05-28T21:44:27.758Z - Admin notification created
+2024-05-28T21:44:27.773Z - Notification created for client 60
+2024-05-28T21:44:27.894Z - Admin notification created
+2024-05-28T21:44:27.913Z - Notification created for client 61
+2024-05-28T21:44:59.435Z - Fetched all admin notifications
+2024-05-28T21:45:43.612Z - Fetched all admin notifications
+2024-05-28T21:46:10.846Z - Fetched all admin notifications
+2024-05-28T21:46:42.676Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T21:46:42.691Z - Fetched moderateur dashboard
+2024-05-28T21:46:45.713Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T21:46:45.725Z - Fetched moderateur dashboard
+2024-05-28T21:52:09.942Z - Admin notification created
+2024-05-28T21:52:09.957Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:52:12.253Z - Admin notification created
+2024-05-28T21:52:12.266Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:53:49.578Z - Failed to fetch client with ID undefined: Client not found
+2024-05-28T21:53:52.383Z - Admin notification created
+2024-05-28T21:53:52.400Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:54:07.904Z - Admin notification created
+2024-05-28T21:54:07.921Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:55:37.240Z - Failed to fetch client with ID undefined: Client not found
+2024-05-28T21:55:39.432Z - Admin notification created
+2024-05-28T21:55:39.461Z - Failed to create notification for client undefined: Cannot add or update a child row: a foreign key constraint fails (`sendmob`.`notifications`, CONSTRAINT `notifications_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
+2024-05-28T21:57:04.897Z - Failed to fetch client with ID undefined: Client not found
+2024-05-28T21:57:13.531Z - Fetched monthly stats for admin in 2024
+2024-05-28T21:57:13.538Z - Fetched admin dashboard
+2024-05-28T21:57:18.219Z - Admin notification created
+2024-05-28T21:57:18.234Z - Notification created for client 6
+2024-05-28T21:57:25.643Z - Fetched all admin notifications
+2024-05-28T21:58:17.375Z - Fetched all admin notifications
+2024-05-28T22:17:05.558Z - Notification created for client 48
+2024-05-28T22:18:40.076Z - Notification created for client 6
+2024-05-28T22:18:52.249Z - Fetched all moderateur notifications
+2024-05-28T22:19:23.888Z - Notification created for client 6
+2024-05-28T22:21:09.463Z - Moderateur notification created
+2024-05-28T22:21:09.478Z - Notification created for client 6
+2024-05-28T22:21:13.376Z - Fetched all moderateur notifications
+2024-05-28T22:22:06.710Z - Notification created for client 62
+2024-05-28T22:22:06.833Z - Notification created for client 63
+2024-05-28T22:22:06.952Z - Notification created for client 64
+2024-05-28T22:22:07.074Z - Notification created for client 65
+2024-05-28T22:22:14.929Z - Fetched all admin notifications
+2024-05-28T22:22:21.294Z - Fetched all moderateur notifications
+2024-05-28T22:34:02.779Z - Moderateur notification created
+2024-05-28T22:34:02.791Z - Notification created for client 55
+2024-05-28T22:34:21.422Z - Fetched all moderateur notifications
+2024-05-28T22:37:22.269Z - Fetched all moderateur notifications
+2024-05-28T22:44:08.765Z - Notification created for client 50
+2024-05-28T22:44:57.181Z - Moderateur notification created
+2024-05-28T22:44:57.193Z - Notification created for client 19
+2024-05-28T22:45:02.083Z - Fetched all moderateur notifications
+2024-05-28T22:45:15.912Z - Fetched all moderateur notifications
+2024-05-28T23:01:04.518Z - Admin notification created
+2024-05-28T23:01:04.533Z - Notification created for client 6
+2024-05-28T23:01:13.049Z - Fetched all admin notifications
+2024-05-28T23:01:13.689Z - Fetched all admin notifications
+2024-05-28T23:02:39.413Z - Moderateur notification created
+2024-05-28T23:02:39.427Z - Notification created for client 6
+2024-05-28T23:02:52.911Z - Fetched all moderateur notifications
+2024-05-28T23:04:54.273Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-28T23:04:54.282Z - Fetched moderateur dashboard
+2024-05-28T23:15:16.449Z - Moderateur notification created
+2024-05-28T23:15:16.476Z - Moderateur notification created
+2024-05-28T23:15:16.479Z - Moderateur notification created
+2024-05-28T23:23:36.806Z - Moderateur notification created
+2024-05-28T23:23:44.017Z - Moderateur notification created
+2024-05-28T23:23:53.017Z - Fetched all moderateur notifications
+2024-05-28T23:26:48.295Z - Moderateur notification created
+2024-05-28T23:26:49.068Z - Moderateur notification created
+2024-05-28T23:26:54.774Z - Fetched all moderateur notifications
+2024-05-28T23:27:56.060Z - Fetched monthly stats for admin in 2024
+2024-05-28T23:27:56.069Z - Fetched admin dashboard
+2024-05-28T23:31:24.854Z - Fetched monthly stats for admin in 2024
+2024-05-28T23:31:24.861Z - Fetched admin dashboard
+2024-05-29T10:52:04.827Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-29T10:52:12.474Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-29T10:52:13.331Z - Fetched monthly stats for admin in 2024
+2024-05-29T10:52:13.363Z - Fetched admin dashboard
+2024-05-29T10:52:16.119Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-29T10:52:16.137Z - Fetched moderateur dashboard
+2024-05-29T10:52:25.792Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-29T10:52:30.230Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-29T10:57:34.579Z - Fetched all admin notifications
+2024-05-29T10:57:49.372Z - Fetched all admin notifications
+2024-05-29T10:58:57.613Z - Fetched all admin notifications
+2024-05-29T11:00:13.157Z - Fetched all admin notifications
+2024-05-29T11:00:21.232Z - Fetched all admin notifications
+2024-05-29T11:00:40.135Z - Fetched all admin notifications
+2024-05-29T11:01:28.575Z - Fetched all admin notifications
+2024-05-29T11:01:46.613Z - Fetched all admin notifications
+2024-05-29T11:03:41.296Z - Fetched all admin notifications
+2024-05-29T11:03:47.523Z - Fetched all admin notifications
+2024-05-29T11:04:10.025Z - Fetched all admin notifications
+2024-05-29T11:05:05.819Z - Fetched all admin notifications
+2024-05-29T11:05:12.012Z - Fetched all admin notifications
+2024-05-29T11:06:27.633Z - Fetched all admin notifications
+2024-05-29T11:06:31.561Z - Fetched all admin notifications
+2024-05-29T11:07:39.075Z - Fetched all admin notifications
+2024-05-29T11:10:44.543Z - Fetched all admin notifications
+2024-05-29T11:10:52.144Z - Fetched all admin notifications
+2024-05-29T11:11:06.488Z - Fetched all admin notifications
+2024-05-29T14:07:50.981Z - Fetched all admin notifications
+2024-05-29T14:07:56.509Z - Fetched all admin notifications
+2024-05-29T14:08:30.204Z - Fetched all admin notifications
+2024-05-29T14:12:23.325Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-29T14:12:23.340Z - Fetched moderateur dashboard
+2024-05-29T14:12:26.304Z - Fetched all moderateur notifications
+2024-05-29T14:12:29.974Z - Fetched all moderateur notifications
+2024-05-29T14:12:50.812Z - Fetched all moderateur notifications
+2024-05-29T14:13:18.761Z - Moderateur notification created
+2024-05-29T14:13:21.419Z - Fetched all moderateur notifications
+2024-05-29T16:47:41.778Z - Fetched all moderateur notifications
+2024-05-29T16:47:51.091Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-29T16:47:51.105Z - Fetched moderateur dashboard
+2024-05-29T16:48:02.823Z - Fetched all moderateur notifications
+2024-05-29T16:48:06.868Z - Fetched all moderateur notifications
+2024-05-29T16:55:34.679Z - Fetched all moderateur notifications
+2024-05-29T17:00:01.494Z - Notification created for client 19
+2024-05-29T17:00:01.513Z - Moderateur notification created
+2024-05-29T17:00:03.443Z - Notification created for client 2
+2024-05-29T17:00:03.459Z - Moderateur notification created
+2024-05-29T17:00:04.530Z - Notification created for client 2
+2024-05-29T17:00:04.544Z - Moderateur notification created
+2024-05-29T17:00:07.257Z - Fetched all moderateur notifications
+2024-05-29T17:00:16.642Z - Fetched all moderateur notifications
+2024-05-29T17:00:24.209Z - Fetched all moderateur notifications
+2024-05-29T17:00:27.092Z - Fetched all moderateur notifications
+2024-05-29T17:00:38.440Z - Notification created for client 3
+2024-05-29T17:00:38.455Z - Moderateur notification created
+2024-05-29T17:00:40.961Z - Fetched all moderateur notifications
+2024-05-29T17:01:02.826Z - Fetched all moderateur notifications
+2024-05-29T17:01:07.943Z - Fetched all moderateur notifications
+2024-05-29T17:01:16.815Z - Fetched all moderateur notifications
+2024-05-29T17:01:30.829Z - Fetched all moderateur notifications
+2024-05-29T17:04:13.091Z - Fetched all moderateur notifications
+2024-05-29T17:05:27.224Z - Fetched all moderateur notifications
+2024-05-29T17:05:43.739Z - Fetched all moderateur notifications
+2024-05-29T17:05:52.873Z - Fetched all moderateur notifications
+2024-05-29T17:06:41.225Z - Fetched all moderateur notifications
+2024-05-29T17:18:21.961Z - Notification created for client 2
+2024-05-29T17:18:21.998Z - Moderateur notification created
+2024-05-29T17:26:04.097Z - Notification created for client 2
+2024-05-29T17:26:04.113Z - Moderateur notification created
+2024-05-29T17:26:20.601Z - Notification created for client 4
+2024-05-29T17:26:20.618Z - Moderateur notification created
+2024-05-29T17:26:36.654Z - Notification created for client 4
+2024-05-29T17:26:36.669Z - Moderateur notification created
+2024-05-29T17:26:47.881Z - Notification created for client 2
+2024-05-29T17:26:47.917Z - Moderateur notification created
+2024-05-29T17:26:51.213Z - Notification created for client 3
+2024-05-29T17:26:51.230Z - Moderateur notification created
+2024-05-29T17:27:32.774Z - Notification created for client 8
+2024-05-29T17:27:32.806Z - Moderateur notification created
+2024-05-29T17:30:54.145Z - Notification created for client 2
+2024-05-29T17:30:54.160Z - Moderateur notification created
+2024-05-29T17:30:55.536Z - Notification created for client 3
+2024-05-29T17:30:55.548Z - Moderateur notification created
+2024-05-29T17:31:08.082Z - Notification created for client 19
+2024-05-29T17:31:08.097Z - Moderateur notification created
+2024-05-29T17:31:59.234Z - Notification created for client 1
+2024-05-29T17:31:59.249Z - Moderateur notification created
+2024-05-29T17:32:31.587Z - Fetched all moderateur notifications
+2024-05-29T17:32:48.673Z - Notification created for client 19
+2024-05-29T17:32:48.695Z - Moderateur notification created
+2024-05-29T17:32:50.721Z - Fetched all moderateur notifications
+2024-05-29T17:33:35.795Z - Notification created for client 19
+2024-05-29T17:33:35.819Z - Moderateur notification created
+2024-05-29T17:33:38.940Z - Fetched all moderateur notifications
+2024-05-29T17:34:30.573Z - Fetched all moderateur notifications
+2024-05-29T17:35:07.346Z - Fetched all moderateur notifications
+2024-05-29T17:35:30.225Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-29T17:35:30.238Z - Fetched moderateur dashboard
+2024-05-29T17:35:38.714Z - Notification created for client 19
+2024-05-29T17:35:38.742Z - Moderateur notification created
+2024-05-29T17:45:44.556Z - Notification created for client 6
+2024-05-29T17:45:44.571Z - Moderateur notification created
+2024-05-29T17:45:47.994Z - Fetched all moderateur notifications
+2024-05-29T17:46:07.943Z - Notification created for client 19
+2024-05-29T17:46:07.964Z - Moderateur notification created
+2024-05-29T17:46:10.144Z - Fetched all moderateur notifications
+2024-05-29T18:03:42.823Z - Notification created for client 19
+2024-05-29T18:03:42.836Z - Moderateur notification created
+2024-05-29T18:03:45.640Z - Notification created for client 19
+2024-05-29T18:03:45.652Z - Moderateur notification created
+2024-05-29T18:07:18.486Z - Notification created for client 19
+2024-05-29T18:07:18.494Z - Admin notification created
+2024-05-29T18:07:24.560Z - Fetched all admin notifications
+2024-05-29T18:07:31.537Z - Notification created for client 19
+2024-05-29T18:07:31.544Z - Admin notification created
+2024-05-29T18:07:33.725Z - Fetched all admin notifications
+2024-05-29T18:23:34.318Z - Notification created for client 4
+2024-05-29T18:23:34.332Z - Moderateur notification created
+2024-05-29T18:33:12.703Z - Notification created for client 19
+2024-05-29T18:33:12.735Z - Moderateur notification created
+2024-05-29T18:41:41.800Z - Notification created for client 1
+2024-05-29T18:41:41.816Z - Moderateur notification created
+2024-05-29T18:45:33.575Z - Notification created for client 19
+2024-05-29T18:45:33.601Z - Moderateur notification created
+2024-05-29T18:48:58.021Z - Fetched all moderateur notifications
+2024-05-29T18:54:59.087Z - Fetched all moderateur notifications
+2024-05-30T18:03:41.903Z - User js_zitouni@esi.dz logged in successfully.
+2024-05-30T18:03:47.311Z - User k.kacem@mobilis.dz logged in successfully.
+2024-05-30T18:03:48.583Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-30T18:03:48.625Z - Fetched moderateur dashboard
+2024-05-30T18:03:49.625Z - Fetched monthly stats for admin in 2024
+2024-05-30T18:03:49.635Z - Fetched admin dashboard
+2024-05-30T18:03:54.367Z - Fetched monthly stats for admin in 2023
+2024-05-30T18:04:05.517Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-30T18:04:50.222Z - Fetched monthly stats for admin in 2024
+2024-05-30T18:05:27.513Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-30T18:08:45.702Z - Fetched monthly stats for admin in 2023
+2024-05-30T18:36:26.685Z - Moderateur notification created
+2024-05-30T18:36:27.975Z - Moderateur notification created
+2024-05-30T18:39:35.970Z - Moderateur notification created
+2024-05-30T18:39:37.827Z - Moderateur notification created
+2024-05-30T18:39:42.871Z - Moderateur notification created
+2024-05-30T18:43:37.151Z - Moderateur notification created
+2024-05-30T18:43:41.436Z - Moderateur notification created
+2024-05-30T18:43:42.479Z - Moderateur notification created
+2024-05-30T18:43:43.064Z - Moderateur notification created
+2024-05-30T18:43:53.484Z - Moderateur notification created
+2024-05-30T18:43:54.015Z - Moderateur notification created
+2024-05-30T18:43:55.759Z - Moderateur notification created
+2024-05-30T18:48:09.680Z - Moderateur notification created
+2024-05-30T18:48:09.710Z - Moderateur notification created
+2024-05-30T18:48:09.713Z - Moderateur notification created
+2024-05-30T18:53:35.902Z - Notification created for client 19
+2024-05-30T18:53:35.925Z - Moderateur notification created
+2024-05-30T18:57:06.799Z - Fetched all admin notifications
+2024-05-30T18:59:05.126Z - Fetched all admin notifications
+2024-05-30T19:00:46.920Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-30T19:01:01.567Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-30T19:01:04.349Z - Fetched monthly stats for modérateur 1 in 2023
+2024-05-30T19:01:45.574Z - Fetched all moderateur notifications
+2024-05-30T19:02:48.584Z - Fetched monthly stats for modérateur 1 in 2024
+2024-05-30T19:02:48.599Z - Fetched moderateur dashboard
+2024-05-30T19:02:59.891Z - Fetched all moderateur notifications
+2024-05-30T19:04:39.924Z - Fetched all moderateur notifications
+2024-05-30T19:08:07.349Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-30T19:09:04.120Z - Failed login attempt for user s.touati@mobilis.dz.
+2024-05-30T19:09:05.218Z - Failed login attempt for user s.touati@mobilis.dz.
+2024-05-30T19:09:12.268Z - User s.touati@mobilis.dz logged in successfully.
+2024-05-30T19:10:52.002Z - User brahim.rarrbo@mobilis.dz logged in successfully.
+2024-05-30T19:11:48.842Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-30T19:11:50.188Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-30T19:12:03.464Z - Failed login attempt for user k.kacem@mobilis.dz.
+2024-05-30T19:12:15.620Z - User k.kacem@mobilis.dz logged in successfully.
+2024-06-18T08:58:14.303Z - Admin updated successfully.
+2024-06-18T08:58:34.602Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-06-18T08:58:39.381Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T08:58:42.046Z - Fetched monthly stats for admin in 2024
+2024-06-18T08:58:42.069Z - Fetched admin dashboard
+2024-06-18T12:04:20.470Z - Admin updated successfully.
+2024-06-18T12:04:34.888Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:04:44.993Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:04:45.651Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:04:45.664Z - Fetched admin dashboard
+2024-06-18T12:04:57.698Z - Fetched monthly stats for admin in 2015
+2024-06-18T12:04:59.611Z - Fetched monthly stats for admin in 2023
+2024-06-18T12:05:08.234Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:05:31.464Z - Fetched monthly stats for admin in 2023
+2024-06-18T12:05:37.098Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:05:40.886Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:05:40.899Z - Fetched admin dashboard
+2024-06-18T12:07:04.857Z - Notification created for client 19
+2024-06-18T12:07:04.884Z - Moderateur notification created
+2024-06-18T12:13:25.782Z - Admin updated successfully.
+2024-06-18T12:13:31.650Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:13:33.793Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:13:33.808Z - Fetched admin dashboard
+2024-06-18T12:21:37.924Z - Admin updated successfully.
+2024-06-18T12:21:46.238Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:21:47.579Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:21:47.591Z - Fetched admin dashboard
+2024-06-18T12:33:52.759Z - Admin updated successfully.
+2024-06-18T12:33:59.471Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:34:00.964Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:34:00.979Z - Fetched admin dashboard
+2024-06-18T12:38:19.928Z - Admin updated successfully.
+2024-06-18T12:38:44.264Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:38:45.242Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:38:45.251Z - Fetched admin dashboard
+2024-06-18T12:43:38.017Z - Admin updated successfully.
+2024-06-18T12:43:46.384Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T12:43:47.848Z - Fetched monthly stats for admin in 2024
+2024-06-18T12:43:47.860Z - Fetched admin dashboard
+2024-06-18T13:49:05.812Z - Admin updated successfully.
+2024-06-18T13:49:17.182Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T13:49:19.585Z - Fetched monthly stats for admin in 2024
+2024-06-18T13:49:19.615Z - Fetched admin dashboard
+2024-06-18T15:08:33.618Z - Moderateur updated successfully.
+2024-06-18T15:08:42.898Z - Failed login attempt for user aissanyris84@gmail.com.
+2024-06-18T15:08:44.958Z - User aissanyris84@gmail.com logged in successfully.
+2024-06-18T15:08:45.980Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-06-18T15:08:45.981Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-06-18T15:10:19.374Z - Moderateur updated successfully.
+2024-06-18T15:10:27.112Z - User aissanyris84@gmail.com logged in successfully.
+2024-06-18T15:10:27.504Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-06-18T15:10:27.505Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-06-18T15:12:05.434Z - Moderateur updated successfully.
+2024-06-18T15:12:11.089Z - User aissanyris84@gmail.com logged in successfully.
+2024-06-18T15:12:11.448Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-06-18T15:12:11.449Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-06-18T15:14:37.438Z - Moderateur updated successfully.
+2024-06-18T15:14:44.370Z - User aissanyris84@gmail.com logged in successfully.
+2024-06-18T15:14:44.714Z - Failed to fetch moderateur dashboard: Clients not found for the given moderator
+2024-06-18T15:14:44.715Z - Failed to fetch moderateur monthly stats: Clients not found for the given moderator
+2024-06-18T15:15:49.195Z - Failed login attempt for user js_zitouni@esi.dz.
+2024-06-18T15:17:27.918Z - Admin updated successfully.
+2024-06-18T15:17:44.356Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T15:17:54.876Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T15:17:55.333Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:17:55.345Z - Fetched admin dashboard
+2024-06-18T15:19:27.395Z - Admin updated successfully.
+2024-06-18T15:19:37.935Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T15:19:38.494Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:19:38.500Z - Fetched admin dashboard
+2024-06-18T15:20:49.053Z - Admin updated successfully.
+2024-06-18T15:20:58.585Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-18T15:20:59.216Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:20:59.227Z - Fetched admin dashboard
+2024-06-18T15:21:29.563Z - User k.kacem@mobilis.dz logged in successfully.
+2024-06-18T15:21:29.965Z - Fetched monthly stats for modérateur 1 in 2024
+2024-06-18T15:21:29.976Z - Fetched moderateur dashboard
+2024-06-18T15:21:35.042Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:21:35.047Z - Fetched admin dashboard
+2024-06-18T15:21:35.681Z - Fetched all admin notifications
+2024-06-18T15:21:41.539Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:21:41.544Z - Fetched admin dashboard
+2024-06-18T15:23:19.051Z - Fetched monthly stats for admin in 2023
+2024-06-18T15:23:59.820Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:23:59.827Z - Fetched admin dashboard
+2024-06-18T15:26:50.118Z - Fetched monthly stats for admin in 2024
+2024-06-18T15:26:50.124Z - Fetched admin dashboard
+2024-06-18T15:59:33.161Z - Notification created for client 66
+2024-06-18T15:59:33.234Z - Notification created for client 67
+2024-06-18T15:59:33.307Z - Notification created for client 68
+2024-06-18T15:59:33.379Z - Notification created for client 69
+2024-06-18T15:59:33.453Z - Notification created for client 70
+2024-06-18T15:59:33.528Z - Notification created for client 71
+2024-06-18T16:07:43.128Z - Notification created for client 72
+2024-06-18T16:07:43.197Z - Notification created for client 73
+2024-06-18T16:07:43.266Z - Notification created for client 74
+2024-06-18T16:07:43.333Z - Notification created for client 75
+2024-06-18T16:13:16.623Z - Moderateur notification created
+2024-06-18T16:13:16.634Z - Notification created for client 48
+2024-06-18T16:13:31.808Z - Moderateur notification created
+2024-06-18T16:13:31.816Z - Notification created for client 48
+2024-06-18T16:14:48.664Z - Moderateur notification created
+2024-06-18T16:14:48.673Z - Notification created for client 49
+2024-06-18T16:15:20.465Z - Moderateur notification created
+2024-06-18T16:15:20.472Z - Notification created for client 49
+2024-06-18T16:16:00.626Z - Notification created for client 50
+2024-06-18T16:16:19.252Z - Notification created for client 50
+2024-06-18T16:16:59.165Z - Moderateur notification created
+2024-06-18T16:16:59.174Z - Notification created for client 55
+2024-06-18T16:25:06.860Z - Fetched monthly stats for modérateur 1 in 2024
+2024-06-18T16:25:06.868Z - Fetched moderateur dashboard
+2024-06-18T16:25:11.805Z - Fetched monthly stats for modérateur 1 in 2023
+2024-06-18T16:25:14.218Z - Fetched monthly stats for modérateur 1 in 2024
+2024-06-18T16:25:25.776Z - Admin notification created
+2024-06-18T16:25:25.783Z - Notification created for client 76
+2024-06-18T16:25:25.852Z - Admin notification created
+2024-06-18T16:25:25.860Z - Notification created for client 77
+2024-06-18T16:25:25.928Z - Admin notification created
+2024-06-18T16:25:25.935Z - Notification created for client 78
+2024-06-18T17:14:36.260Z - Admin notification created
+2024-06-18T17:14:36.277Z - Notification created for client 79
+2024-06-18T17:14:36.398Z - Admin notification created
+2024-06-18T17:14:36.412Z - Notification created for client 80
+2024-06-18T17:14:36.530Z - Admin notification created
+2024-06-18T17:14:36.544Z - Notification created for client 81
+2024-06-18T17:14:36.667Z - Admin notification created
+2024-06-18T17:14:36.682Z - Notification created for client 82
+2024-06-18T17:14:36.803Z - Admin notification created
+2024-06-18T17:14:36.818Z - Notification created for client 83
+2024-06-18T17:14:36.940Z - Admin notification created
+2024-06-18T17:14:36.953Z - Notification created for client 84
+2024-06-18T17:14:37.074Z - Admin notification created
+2024-06-18T17:14:37.088Z - Notification created for client 85
+2024-06-18T17:18:52.128Z - Fetched monthly stats for admin in 2024
+2024-06-18T17:18:52.137Z - Fetched admin dashboard
+2024-06-18T17:19:04.859Z - Fetched monthly stats for admin in 2024
+2024-06-18T17:19:04.868Z - Fetched admin dashboard
+2024-06-18T18:43:16.441Z - Fetched monthly stats for modérateur 1 in 2024
+2024-06-18T18:43:16.456Z - Fetched moderateur dashboard
+2024-06-24T09:10:53.665Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T09:11:04.352Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T09:11:05.892Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T09:11:07.343Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T09:11:12.944Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T09:12:24.409Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T09:12:53.021Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T09:12:53.031Z - Fetched dashboard for client 1
+2024-06-24T10:22:57.300Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T10:23:09.754Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T10:23:11.234Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T10:23:26.585Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:23:42.255Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:23:43.864Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:23:43.905Z - Fetched dashboard for client 1
+2024-06-24T10:38:57.542Z - Failed login attempt for user info@algeritelecom.dz.
+2024-06-24T10:39:05.719Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T10:39:50.326Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:39:53.541Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:39:53.551Z - Fetched dashboard for client 1
+2024-06-24T10:40:32.646Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:40:33.491Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:40:33.505Z - Fetched dashboard for client 1
+2024-06-24T10:41:38.428Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:41:39.062Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:41:39.064Z - Fetched dashboard for client 1
+2024-06-24T10:42:24.317Z - Failed login attempt for user info@algerietelecom.dz.
+2024-06-24T10:42:29.073Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:42:29.814Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:42:29.815Z - Fetched dashboard for client 1
+2024-06-24T10:43:01.267Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:43:03.221Z - Fetched dashboard for client 1
+2024-06-24T10:43:03.239Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:43:19.239Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:43:19.772Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:43:19.773Z - Fetched dashboard for client 1
+2024-06-24T10:50:39.286Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T10:50:42.079Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T10:50:42.082Z - Fetched dashboard for client 1
+2024-06-24T11:19:45.664Z - User js_zitouni@esi.dz logged in successfully.
+2024-06-24T11:19:54.143Z - Fetched monthly stats for admin in 2024
+2024-06-24T11:19:54.301Z - Fetched admin dashboard
+2024-06-24T11:20:00.669Z - Fetched monthly stats for admin in 2023
+2024-06-24T11:21:26.747Z - Notification created for client 1
+2024-06-24T11:21:26.805Z - Moderateur notification created
+2024-06-24T11:21:51.336Z - Fetched all notifications for client 1
+2024-06-24T11:24:58.838Z - Fetched all notifications for client 1
+2024-06-24T11:25:32.042Z - Fetched all notifications for client 1
+2024-06-24T11:29:55.376Z - Fetched all notifications for client 1
+2024-06-24T11:31:24.427Z - Fetched all notifications for client 1
+2024-06-24T11:31:25.932Z - Fetched all notifications for client 1
+2024-06-24T11:36:23.717Z - Fetched all notifications for client 1
+2024-06-24T11:36:30.917Z - Fetched all notifications for client 1
+2024-06-24T15:00:29.006Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T15:00:29.043Z - Fetched dashboard for client 1
+2024-06-24T15:01:44.295Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T15:01:44.296Z - Fetched dashboard for client 1
+2024-06-24T20:12:05.938Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:12:05.957Z - Fetched dashboard for client 1
+2024-06-24T20:12:08.043Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:12:08.054Z - Fetched dashboard for client 1
+2024-06-24T20:13:06.850Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:13:06.851Z - Fetched dashboard for client 1
+2024-06-24T20:13:11.607Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:13:11.629Z - Fetched dashboard for client 1
+2024-06-24T20:18:11.507Z - Fetched dashboard for client 1
+2024-06-24T20:24:22.651Z - Fetched dashboard for client 1
+2024-06-24T20:24:25.565Z - Fetched dashboard for client 1
+2024-06-24T20:26:19.574Z - Fetched dashboard for client 1
+2024-06-24T20:26:22.170Z - Fetched dashboard for client 1
+2024-06-24T20:26:48.995Z - Fetched dashboard for client 1
+2024-06-24T20:26:50.500Z - Fetched dashboard for client 1
+2024-06-24T20:26:56.233Z - Fetched dashboard for client 1
+2024-06-24T20:27:52.402Z - Fetched dashboard for client 1
+2024-06-24T20:27:53.953Z - Fetched dashboard for client 1
+2024-06-24T20:27:59.532Z - Fetched dashboard for client 1
+2024-06-24T20:28:20.851Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:28:20.852Z - Fetched dashboard for client 1
+2024-06-24T20:28:29.015Z - Fetched dashboard for client 1
+2024-06-24T20:30:57.329Z - Fetched dashboard for client 1
+2024-06-24T20:30:59.894Z - Fetched dashboard for client 1
+2024-06-24T20:35:53.425Z - Fetched dashboard for client 1
+2024-06-24T20:35:55.619Z - Fetched dashboard for client 1
+2024-06-24T20:36:07.661Z - Fetched dashboard for client 1
+2024-06-24T20:36:07.689Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:36:15.216Z - Fetched dashboard for client 1
+2024-06-24T20:36:15.260Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:36:49.817Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:36:49.822Z - Fetched dashboard for client 1
+2024-06-24T20:36:50.581Z - Fetched dashboard for client 1
+2024-06-24T20:36:57.662Z - Fetched dashboard for client 1
+2024-06-24T20:37:31.611Z - Fetched dashboard for client 1
+2024-06-24T20:38:00.408Z - Fetched dashboard for client 1
+2024-06-24T20:38:02.109Z - Fetched dashboard for client 1
+2024-06-24T20:38:37.937Z - Fetched dashboard for client 1
+2024-06-24T20:38:37.952Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:38:44.076Z - Fetched dashboard for client 1
+2024-06-24T20:38:44.086Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T20:39:23.495Z - Fetched dashboard for client 1
+2024-06-24T20:39:31.955Z - Fetched dashboard for client 1
+2024-06-24T20:41:04.731Z - Fetched dashboard for client 1
+2024-06-24T20:41:41.511Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:43.551Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:47.860Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:52.211Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:52.727Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:52.928Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:53.097Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:53.313Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:53.958Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:41:54.184Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:42:02.714Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:42:03.620Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:42:51.270Z - Fetched dashboard for client 1
+2024-06-24T20:43:26.980Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:27.964Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:28.190Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:33.756Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:34.520Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:34.707Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:34.929Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:43:53.309Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:44:15.589Z - Failed to delete contact with ID 2: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:44:41.770Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:45:10.136Z - Fetched dashboard for client 1
+2024-06-24T20:54:31.477Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T20:54:35.820Z - Failed to delete contact with ID 11: Cannot delete or update a parent row: a foreign key constraint fails (`sendmob`.`contact_message_client`, CONSTRAINT `contact_message_client_ibfk_2` FOREIGN KEY (`contact_id`) REFERENCES `contacts` (`contact_id`))
+2024-06-24T21:08:06.198Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T21:08:12.071Z - Fetched dashboard for client 1
+2024-06-24T21:08:12.108Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T21:17:44.478Z - Generated client report for 2024 in CSV format
+2024-06-24T21:17:50.324Z - Generated client report for 2024 in PDF format
+2024-06-24T21:17:50.653Z - Generated client report for 2024 in PDF format
+2024-06-24T21:56:00.604Z - User sa_assurances@gmail.com logged in successfully.
+2024-06-24T21:56:21.990Z - User info@algerietelecom.dz logged in successfully.
+2024-06-24T21:56:24.896Z - Fetched monthly stats for client 1 in 2024
+2024-06-24T21:56:24.928Z - Fetched dashboard for client 1
+2024-06-25T06:31:17.223Z - User info@aec.dz logged in successfully.
+2024-06-25T06:31:22.554Z - Fetched monthly stats for client 19 in 2024
+2024-06-25T06:31:22.560Z - Fetched dashboard for client 19
+2024-06-25T06:31:24.662Z - Fetched monthly stats for client 19 in 2023
+2024-06-25T06:31:26.614Z - Fetched monthly stats for client 19 in 2024
+2024-06-25T06:31:26.615Z - Fetched dashboard for client 19
+2024-06-25T06:31:31.293Z - Fetched dashboard for client 19
+2024-06-25T06:34:27.788Z - Fetched dashboard for client 19
+2024-06-25T06:35:07.933Z - Fetched monthly stats for client 19 in 2024
+2024-06-25T06:35:07.934Z - Fetched dashboard for client 19
